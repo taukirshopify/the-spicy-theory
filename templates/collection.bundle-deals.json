@@ -1,5 +1,12 @@
 {
   "sections": {
+    "13b66e66-1e41-42fa-84a5-8dbfae1add6b": {
+      "type": "homebannar",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/slide-img-1_6796d0c8-415f-4252-935b-b295b4cb4c71.png",
+        "bottom-sheap": "shopify:\/\/shop_images\/slider-shape-1.svg"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -57,6 +64,7 @@
     }
   },
   "order": [
+    "13b66e66-1e41-42fa-84a5-8dbfae1add6b",
     "main",
     "a7e5b86d-c66a-4f89-97f7-2a4961621b3d",
     "f33f8658-8943-4171-84ad-19ec7ed0185c"
