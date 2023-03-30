@@ -605,14 +605,6 @@
         "alternate_bg_color": false,
         "full_width": true
       }
-    },
-    "5af0d332-bfe9-49bb-bdae-a40e96fd80b8": {
-      "type": "homebannar",
-      "disabled": true,
-      "settings": {
-        "img": "shopify:\/\/shop_images\/slide-img-1_6796d0c8-415f-4252-935b-b295b4cb4c71.png",
-        "bottom-sheap": "shopify:\/\/shop_images\/slider-shape-1.svg"
-      }
     }
   },
   "order": [
@@ -631,7 +623,6 @@
     "de0a8668-c6f1-476b-a453-6276da816b0b",
     "1590158040284",
     "eadde674-a7bf-492f-9e7c-5ad05df623e0",
-    "1590157903142",
-    "5af0d332-bfe9-49bb-bdae-a40e96fd80b8"
+    "1590157903142"
   ]
 }
