@@ -3,7 +3,8 @@
     "5af0d332-bfe9-49bb-bdae-a40e96fd80b8": {
       "type": "homebannar",
       "settings": {
-        "img": "shopify:\/\/shop_images\/IMG_8348.jpg"
+        "img": "shopify:\/\/shop_images\/IMG_8348.jpg",
+        "bottom-sheap": "shopify:\/\/shop_images\/slider-shape-1.svg"
       }
     },
     "feebce35-2433-4981-8a19-c0aa5ce10671": {
