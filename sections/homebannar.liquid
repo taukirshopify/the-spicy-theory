@@ -1,0 +1,24 @@
+<div class="custome-bannar">
+  <div class="contianer">
+    <img src="{{ section.settings.img |img_url:'' }}" alt="">
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Home bannar",
+  "class": "home banner",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "img",
+      "label": "Select your bannar Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Home Banner"
+    }
+  ]
+}
+{% endschema %}
