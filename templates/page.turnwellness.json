@@ -1,0 +1,368 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "d414d062-36ad-46f8-b6e6-c0a7acdabcae": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_5e24b662-583c-439b-98b4-d1fdf6a390af.webp",
+            "mobile_image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_df48c372-08bc-4f12-8bf7-1fbdc436ad88.webp",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Health & Wellness",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "standard",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "8961e77a-1836-496a-b606-981c3e92350d": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".rimage-outer-wrapper {border-radius: 21px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Here at The Spice Theory, we understand that oftentimes conventional medicine and nutritional advice do not account for cultural differences in food intake, dietary and lifestyle customs. With an integrative medical approach to caring for the whole person, we emphasize a more holistic outlook to health and wellness that is culturally responsive and adaptive.<br\/><br\/>Lifestyle medicine, the foundation of conventional medical practice, is an evidence-based approach aimed at using positive healthy behaviors to prevent, combat, and treat chronic disease before applying pharmaceutical intervention. We encourage you to take charge and put yourself at the helm of your health! We offer the following tenets as an adaptive approach to optimize your life rather than just treating disease:<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "text_width": 55,
+        "image": "shopify:\/\/shop_images\/article-1_600x_b2ef309d-c769-4745-a310-a37dedb19a14.webp",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "alternate_bg_color": false
+      }
+    },
+    "ccf2a0db-f26e-442b-ac76-750bead5887b": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>1.<\/b>Let Great Food Be Your Medicine! (Nutrition)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "490ac1ae-b33c-483e-ab23-07c41ce24883": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".image-with-text .image-with-text__text .image-with-text__text__wrap {width: 100%; max-width: 100%; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Nutrition education provides the foundational support for dietary patterns that can prevent, treat and often reverse chronic disease. The Spice Theory provides practical strategies to incorporate food selection as a primary strategy for health maintenance and longevity. Creating a balanced diet with predominantly whole, plant-based foods is a must! Less on the meat, more heavy on the fiber-rich fruits and vegetables!<\/p><p>Opt for more complex carbohydrates and avoid simple starches that leave you energy depleted. Check out the HEALTHY EATING PLATE from Harvard School of Public Health!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "text_width": 70,
+        "image": "shopify:\/\/shop_images\/healthy-eating_900x_0823e0c7-6deb-4df7-9e29-f476e8d9cd15.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
+        "alternate_bg_color": false
+      }
+    },
+    "efe2aa4e-6220-45ee-862a-82bab9809f41": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>2.<\/b> Move Your Body, Lively Up Yourself! (Exercise)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Have you heard the phrase that \"sitting in the new smoking\"? According to the CDC, sedentary lifestyle puts you at greater risk for diabetes and cardiovascular events such as heart attacks and stroke. Daily exercise is not only essential to optimizing your endocrine health, it also improves your bone health, and mental health too. Consistent physical activity should incorporate a mix of aerobic exercise, strength training, balance and flexibility training. Aim for 150 minutes per week of moderate aerobic exercise. Two or more strength training sessions per week is recommended.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "b08b7277-ecfe-49a0-b3ff-f82667e10f0e": {
+      "type": "rich-text",
+      "custom_css": [
+        ".pt-0 {padding: 40px; border-radius: 30px;}",
+        ".rich-text-section__text .button-container {margin-top: 1rem;}"
+      ],
+      "settings": {
+        "subheading": "TRY OUR JERK QUINOA BOWL USING OUR \"WELCOME TO JAMROCK\" JERK SPICE RUB",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "LIVE WELL. EAT WELL!",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "#32620e",
+        "alternate_bg_color": false
+      }
+    },
+    "0b3cf328-00dd-40b4-bc7c-d84a5876b588": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>3.<\/b>Rest, relax, reset! (Sleep)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Research shows that 7 to 9 hours of sleep every night is critical to the proper functioning of your body and your overall health. Developing good sleep hygiene, and maintaining a regular bedtime routine substantially improves your quality of life. It is important to avoid distractions in the bed such as electronic devices, reading or watching TV, as this can significantly impact your ability to get a restful night.<br\/><br\/>Emotional stress and anxiety may interfere with your sleep, which can lead to detrimental effects on your immune system. Using alternative therapies such as aromatherapy, practicing mindfulness, music therapy, or relaxation training can be applied to relieve that burden.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "b7e98aee-4989-411c-9320-5f3a7c4a6ced": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<h5><p>Here are tips supported by <strong>National Sleep Foundation <\/strong>the to help.<\/p><\/h5><ul><li>Establish a pre-bedtime routine to signal your mind and body to wind down.<\/li><li>Create a tranquil sleep environment that is optimized for relaxation.<\/li><li>Avoid excessive lighting and noise distractions.<\/li><li>Set an appropriate bedroom temperature, and maintain humidity in the 60-70% range.<\/li><li>Unplug from electronic devices.<\/li><li>Avoid substances such as caffeine and alcohol that interfere with sleep.<\/li><li>Avoid napping in bed, and napping in the daytime.<\/li><li>Allow enough time for your food to be digested before turning in. Avoid heavy meals and snacking before bed.<\/li><\/ul>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": false,
+        "color_bg": "#32620e",
+        "alternate_bg_color": false
+      }
+    },
+    "c7774cd9-16d4-478d-82bb-22c228ff0bae": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>4.<\/b>Free up your mind and elevate your consciousness! (Self-Care & Stress Management)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Our society places high value on workplace productivity and accomplishments. We are so much more than that. With the strains of societal demands and ineffective work-life balance, we often experience a combination of the three main types of stress (acute stress, acute episodic, and chronic stress), which are interconnected. Our mind directly affects our body, and persistent stressful events trigger our \"fight or flight\" response.<br\/><br\/>This can lead to hormonal imbalances, anxiety and depression, weight gain, elevated blood pressure, chronic muscular pain and much more. Recognizing negative stress triggers and identifying proper coping mechanisms will restore a sense of balance. We encourage you to practice self-care and mindfulness techniques to help mitigate some of the unavoidable stressors in life.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "6e15cd40-c94e-47af-8324-257f2dace0a2": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".image-with-text__text {}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<h5><p>Follow these wellness strategies to better manage your stress:<\/p><\/h5><ul><li>Make time for yourself and prioritize self-care.<\/li><li>Practice meditation and deep breathing techniques.<\/li><li>Eat a healthy diet filled with nutrient-dense foods.<\/li><li>Schedule regular exercise.<\/li><li>Develop a good sleep hygiene and maintain a regular bedtime routine.<\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "text_width": 70,
+        "image": "shopify:\/\/shop_images\/img-2_350x_1d1a460d-e141-4fdc-8524-d9a4ee62ea0b.webp",
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": true
+      }
+    },
+    "50bcf467-a7b6-4c6c-8dac-df19efc08980": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>5.<\/b>DARE to say NO! (Avoid Substance Abuse)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Substance abuse disorders increase your risk for other chronic health conditions. Family history along with environmental factors play a major role in vulnerability to addictive behaviors. Positive health behaviors such as smoking cessation and limiting alcohol intake dramatically reduce your chances of developing hypertension and many forms of cancer. If you are struggling with addiction, seek treatment from a medical professional.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "cca48d79-19a4-434f-aca3-0fb717734724": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>6.<\/b>We Belong Together! (Social Connectedness)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b": {
+      "type": "rich-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Resources:",
+        "title_size": 16,
+        "heading_h1": false,
+        "text": "<p>Copyright © 2008. For more information about The Healthy Eating Pyramid, please see The Nutrition Source, Department of Nutrition, Harvard T.H. Chan School of Public Health, <a href=\"https:\/\/www.thenutritionsource.org\" target=\"_blank\" title=\"https:\/\/www.thenutritionsource.org\">www.thenutritionsource.org<\/a>, and and Eat, Drink, and Be Healthy, by Walter C. Willett, M.D., and Patrick J. Skerrett (2005), Free Press\/Simon & Schuster Inc.”<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "#5c8018",
+        "alternate_bg_color": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d414d062-36ad-46f8-b6e6-c0a7acdabcae",
+    "8961e77a-1836-496a-b606-981c3e92350d",
+    "ccf2a0db-f26e-442b-ac76-750bead5887b",
+    "490ac1ae-b33c-483e-ab23-07c41ce24883",
+    "efe2aa4e-6220-45ee-862a-82bab9809f41",
+    "b08b7277-ecfe-49a0-b3ff-f82667e10f0e",
+    "0b3cf328-00dd-40b4-bc7c-d84a5876b588",
+    "b7e98aee-4989-411c-9320-5f3a7c4a6ced",
+    "c7774cd9-16d4-478d-82bb-22c228ff0bae",
+    "6e15cd40-c94e-47af-8324-257f2dace0a2",
+    "50bcf467-a7b6-4c6c-8dac-df19efc08980",
+    "cca48d79-19a4-434f-aca3-0fb717734724",
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
+    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b"
+  ]
+}
