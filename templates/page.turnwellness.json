@@ -24,10 +24,30 @@
         "color_bg": "",
         "alternate_bg_color": false
       }
+    },
+    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Resources:",
+        "title_size": 16,
+        "heading_h1": false,
+        "text": "<p>Copyright © 2008. For more information about The Healthy Eating Pyramid, please see The Nutrition Source, Department of Nutrition, Harvard T.H. Chan School of Public Health, www.thenutritionsource.org, and and Eat, Drink, and Be Healthy, by Walter C. Willett, M.D., and Patrick J. Skerrett (2005), Free Press\/Simon & Schuster Inc.”<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "#f5f5f5",
+        "alternate_bg_color": false
+      }
     }
   },
   "order": [
     "main",
-    "5a0953dc-5efe-4d22-b1a3-b80b8334b738"
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
+    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b"
   ]
 }
