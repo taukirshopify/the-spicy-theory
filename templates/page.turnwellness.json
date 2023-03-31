@@ -8,6 +8,10 @@
     },
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
       "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px;}",
+        "h2{margin-bottom:10px;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "<b>7<\/b> Evidence based medical practices",
@@ -27,6 +31,9 @@
     },
     "fb760f39-a769-4dc6-8d82-c9c0fb443a8b": {
       "type": "rich-text",
+      "custom_css": [
+
+      ],
       "settings": {
         "subheading": "",
         "title": "Resources:",
