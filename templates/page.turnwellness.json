@@ -190,6 +190,9 @@
     },
     "6e15cd40-c94e-47af-8324-257f2dace0a2": {
       "type": "image-with-text",
+      "custom_css": [
+        ".image-with-text__text {}"
+      ],
       "settings": {
         "subheading": "",
         "title": "",
@@ -204,7 +207,7 @@
         "image_width": 100,
         "image_position": "right",
         "media_size": "contain",
-        "alternate_bg_color": false
+        "alternate_bg_color": true
       }
     },
     "50bcf467-a7b6-4c6c-8dac-df19efc08980": {
