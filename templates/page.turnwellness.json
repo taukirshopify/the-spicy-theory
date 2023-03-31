@@ -98,7 +98,7 @@
     "0b3cf328-00dd-40b4-bc7c-d84a5876b588": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
         "h2 {margin-bottom: 32px;}",
         ".pt-0 {padding: 0;}"
       ],
@@ -122,8 +122,9 @@
     "c7774cd9-16d4-478d-82bb-22c228ff0bae": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
