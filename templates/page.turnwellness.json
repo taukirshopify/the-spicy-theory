@@ -6,6 +6,24 @@
       "settings": {
       }
     },
+    "8961e77a-1836-496a-b606-981c3e92350d": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Here at The Spice Theory, we understand that oftentimes conventional medicine and nutritional advice do not account for cultural differences in food intake, dietary and lifestyle customs. With an integrative medical approach to caring for the whole person, we emphasize a more holistic outlook to health and wellness that is culturally responsive and adaptive.<br\/><br\/>Lifestyle medicine, the foundation of conventional medical practice, is an evidence-based approach aimed at using positive healthy behaviors to prevent, combat, and treat chronic disease before applying pharmaceutical intervention. We encourage you to take charge and put yourself at the helm of your health! We offer the following tenets as an adaptive approach to optimize your life rather than just treating disease:<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "text_width": 40,
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "alternate_bg_color": false
+      }
+    },
     "ccf2a0db-f26e-442b-ac76-750bead5887b": {
       "type": "rich-text",
       "custom_css": [
@@ -192,6 +210,7 @@
   },
   "order": [
     "main",
+    "8961e77a-1836-496a-b606-981c3e92350d",
     "ccf2a0db-f26e-442b-ac76-750bead5887b",
     "efe2aa4e-6220-45ee-862a-82bab9809f41",
     "0b3cf328-00dd-40b4-bc7c-d84a5876b588",
