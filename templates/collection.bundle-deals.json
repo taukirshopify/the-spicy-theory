@@ -9,6 +9,9 @@
     },
     "main": {
       "type": "main-collection",
+      "custom_css": [
+        ".collection-page .jdgm-widget {display:none;}"
+      ],
       "settings": {
         "header_mode": "text-only",
         "height": "natural",
@@ -16,7 +19,7 @@
         "height_mobile": 250,
         "image_overlay_style": "standard",
         "text_alignment": "center center",
-        "breadcrumb_align": "above_heading",
+        "breadcrumb_align": "none",
         "pagination_limit_int": 36,
         "products_per_row": 4,
         "mobile_products_per_row": "2",
