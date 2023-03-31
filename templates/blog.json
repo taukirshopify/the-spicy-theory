@@ -8,10 +8,10 @@
         "show_tags": true,
         "show_author": true,
         "show_meta_on_listing": true,
-        "show_tags_on_articles": false,
+        "show_tags_on_articles": true,
         "show_sharing_icons": true,
         "tile_mode": "tile",
-        "crop_ratio": "1-1",
+        "crop_ratio": "3-4",
         "use_inf_scroll": false
       }
     }
