@@ -74,8 +74,9 @@
     "efe2aa4e-6220-45ee-862a-82bab9809f41": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
@@ -97,8 +98,9 @@
     "0b3cf328-00dd-40b4-bc7c-d84a5876b588": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
