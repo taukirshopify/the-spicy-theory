@@ -239,6 +239,9 @@
     },
     "b08b7277-ecfe-49a0-b3ff-f82667e10f0e": {
       "type": "rich-text",
+      "custom_css": [
+        ".pt-0 {padding: 0;}"
+      ],
       "settings": {
         "subheading": "TRY OUR JERK QUINOA BOWL USING OUR \"WELCOME TO JAMROCK\" JERK SPICE RUB",
         "title": "",
@@ -251,7 +254,7 @@
         "button_style": "primary",
         "text_alignment": "left",
         "full_width": true,
-        "no_padding": false,
+        "no_padding": true,
         "color_bg": "",
         "alternate_bg_color": false
       }
