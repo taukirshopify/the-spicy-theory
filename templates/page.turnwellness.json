@@ -8,6 +8,9 @@
     },
     "8961e77a-1836-496a-b606-981c3e92350d": {
       "type": "image-with-text",
+      "custom_css": [
+        ".rimage-outer-wrapper {border-radius: 21px;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "",
