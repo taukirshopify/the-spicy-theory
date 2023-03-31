@@ -6,47 +6,30 @@
       "settings": {
       }
     },
-    "d414d062-36ad-46f8-b6e6-c0a7acdabcae": {
-      "type": "slideshow",
-      "blocks": {
-        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_5e24b662-583c-439b-98b4-d1fdf6a390af.webp",
-            "mobile_image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_df48c372-08bc-4f12-8bf7-1fbdc436ad88.webp",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "",
-            "title_size": 40,
-            "heading_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_1_link": "",
-            "button_1_label": "",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0"
-      ],
+    "606626ba-2448-4e22-9191-7846a23c9723": {
+      "type": "image-with-text-overlay",
       "settings": {
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 500,
+        "image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_5e24b662-583c-439b-98b4-d1fdf6a390af.webp",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 250,
+        "subheading": "",
+        "title": "Health & Wellness",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button1_label": "",
+        "button1_link": "",
+        "button2_label": "",
+        "button2_link": "",
+        "button_style": "primary",
+        "text_alignment": "center center",
         "full_width": true,
         "mobile_overlay_under": false,
-        "image_overlay_style": "standard",
-        "slide_transition": "fade",
-        "slide_navigation": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 7
+        "image_overlay_style": "standard"
       }
     },
     "8961e77a-1836-496a-b606-981c3e92350d": {
@@ -346,37 +329,11 @@
         "color_bg": "#5c8018",
         "alternate_bg_color": true
       }
-    },
-    "606626ba-2448-4e22-9191-7846a23c9723": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_5e24b662-583c-439b-98b4-d1fdf6a390af.webp",
-        "image_link": "",
-        "image_position": "center center",
-        "height": "fixed",
-        "height_desktop": 450,
-        "height_mobile": 250,
-        "subheading": "",
-        "title": "Health & Wellness",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button1_label": "",
-        "button1_link": "",
-        "button2_label": "",
-        "button2_link": "",
-        "button_style": "primary",
-        "text_alignment": "center center",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "image_overlay_style": "standard"
-      }
     }
   },
   "order": [
     "main",
-    "d414d062-36ad-46f8-b6e6-c0a7acdabcae",
+    "606626ba-2448-4e22-9191-7846a23c9723",
     "8961e77a-1836-496a-b606-981c3e92350d",
     "ccf2a0db-f26e-442b-ac76-750bead5887b",
     "490ac1ae-b33c-483e-ab23-07c41ce24883",
@@ -389,7 +346,6 @@
     "50bcf467-a7b6-4c6c-8dac-df19efc08980",
     "cca48d79-19a4-434f-aca3-0fb717734724",
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
-    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b",
-    "606626ba-2448-4e22-9191-7846a23c9723"
+    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b"
   ]
 }
