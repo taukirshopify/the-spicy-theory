@@ -62,7 +62,7 @@
         "button_link": "",
         "button_style": "primary",
         "text_alignment": "left",
-        "text_width": 63,
+        "text_width": 70,
         "image": "shopify:\/\/shop_images\/healthy-eating_900x_0823e0c7-6deb-4df7-9e29-f476e8d9cd15.jpg",
         "video": "",
         "image_width": 100,
@@ -98,7 +98,7 @@
     "b08b7277-ecfe-49a0-b3ff-f82667e10f0e": {
       "type": "rich-text",
       "custom_css": [
-        ".pt-0 {padding: 40px; border-radius:30px;}"
+        ".pt-0 {padding: 40px; border-radius: 30px;}"
       ],
       "settings": {
         "subheading": "TRY OUR JERK QUINOA BOWL USING OUR \"WELCOME TO JAMROCK\" JERK SPICE RUB",
