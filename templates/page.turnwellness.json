@@ -31,8 +31,9 @@
     "ccf2a0db-f26e-442b-ac76-750bead5887b": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
