@@ -54,6 +54,9 @@
     },
     "490ac1ae-b33c-483e-ab23-07c41ce24883": {
       "type": "image-with-text",
+      "custom_css": [
+        ".image-with-text .image-with-text__text .image-with-text__text__wrap {width: 100%; max-width: 100%; margin-left: auto; margin-right: auto;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "",
