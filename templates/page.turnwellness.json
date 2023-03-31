@@ -278,7 +278,7 @@
         "text_alignment": "left",
         "full_width": true,
         "no_padding": false,
-        "color_bg": "",
+        "color_bg": "#32620e",
         "alternate_bg_color": false
       }
     }
