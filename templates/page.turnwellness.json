@@ -38,7 +38,7 @@
         "button_link": "",
         "button_style": "primary",
         "text_alignment": "left",
-        "full_width": true,
+        "full_width": false,
         "no_padding": true,
         "color_bg": "#5c8018",
         "alternate_bg_color": true
