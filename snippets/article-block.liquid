@@ -23,7 +23,7 @@
     <h2>{{ article.title | link_to: article.url }}</h2>
 
     <div class="excerpt rte">
-      {{ article.excerpt_or_content | truncate: 40 }}
+      {{ article.excerpt_or_content | truncate: 140 }}
     </div>
 
     {% if show_meta_on_listing or show_author %}

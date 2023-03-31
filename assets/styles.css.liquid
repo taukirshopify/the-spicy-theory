@@ -1074,7 +1074,7 @@ h6, .h6 {
   font-size: {{ font_size_heading_int | times: 0.7 | round | at_least: font_size_body_int }}px;
 }
 
-h1, .added-notice .added-notice__price, .image-overlay .line-1, .product-details .product-price .current-price, h2, h3, h4, .cart-summary__subtotal .amount, blockquote, h5, h6, .feature-subheader, .image-overlay .line-3 .link-display {
+/* h1, .added-notice .added-notice__price, .image-overlay .line-1, .product-details .product-price .current-price, h2, h3, h4, .cart-summary__subtotal .amount, blockquote, h5, h6, .feature-subheader, .image-overlay .line-3 .link-display {
   font-family: {{ heading_font.family }}, {{ heading_font.fallback_families }};
   font-weight: {{ heading_font.weight }};
   font-style: {{ heading_font.style }};
@@ -1082,7 +1082,7 @@ h1, .added-notice .added-notice__price, .image-overlay .line-1, .product-details
   color: {{ header_col }};
   margin: 0 0 0.7em;
   padding: 0;
-}
+} */
 
 .feature-subheader, .image-overlay .line-3 .link-display {
   font-size: {{ font_size_heading_int | times: 0.6 | round | at_least: font_size_body_int }}px;
@@ -6995,7 +6995,7 @@ html.no-js .product-gallery .product-media {
   visibility: hidden;
 }
 
-.product-details .product-title {
+/* .product-details .product-title {
   margin: 0;
   padding: 0;
   font-family: inherit;
@@ -7003,7 +7003,7 @@ html.no-js .product-gallery .product-media {
   font-weight: inherit;
   color: inherit;
   line-height: 1.2em;
-}
+} */
 .product-details .product-price .current-price {
   font-size: 1.6em;
   color: {{ body_text_col }};
@@ -12356,3 +12356,37 @@ body.tab-used .cc-checkbox__input:focus + .cc-checkbox__label, html.no-js .cc-ch
     rgba(0, 0, 0, 0.39539565826330536) 60%
   );
 } */
+@font-face {
+  font-family: 'GeorgiaBallpark Serif';
+  src: local('GeorgiaBallpark Serif'), local('GeorgiaBallpark-Serif'),
+      url('GeorgiaBallpark-Serif.woff2') format('woff2'),
+      url('GeorgiaBallpark-Serif.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GeorgiaBallpark Script';
+  src: local('GeorgiaBallpark Script'), local('GeorgiaBallpark-Script'),
+      url('GeorgiaBallpark-Script.woff2') format('woff2'),
+      url('GeorgiaBallpark-Script.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
+
+h1,.product-block .title , .added-notice .added-notice__price, .image-overlay .line-1, .product-details .product-price .current-price, h2, h3, h4, .cart-summary__subtotal .amount, blockquote, h5, h6, .feature-subheader, .image-overlay .line-3 .link-display {
+  font-family: 'GeorgiaBallpark Serif';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  line-height: 1.4em;
+  color: {{ header_col }};
+  margin: 0 0 0.7em;
+  padding: 0;
+}
