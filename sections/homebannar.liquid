@@ -51,7 +51,7 @@
       "type": "text",
       "id": "h2",
       "label": "Put your title",
-      "default": "SMALL BATCH, HANDCRAFTED SPICE BLENDS"
+      "default": "SMALL BATCH,<br> HANDCRAFTED SPICE BLENDS"
     },
     {
       "type": "image_picker",
@@ -80,5 +80,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+  .inner-banner h2 {
+    margin-right: 50px;
+  }
+  @media screen and (max-width: 600px) {
+    .inner-banner h2 {
+      display: none;
+    }
   }
 </style>
