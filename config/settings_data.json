@@ -70,6 +70,8 @@
     "swatch_enabled": true,
     "prod_thumb_show_options": false,
     "search_type": "product,article,page",
+    "social_twitter_url": "",
+    "social_facebook_url": "https:\/\/www.facebook.com\/shopspicetheory\/",
     "section_padding": "medium",
     "cart_type": "drawer-standard",
     "currency_code_enabled": true,
