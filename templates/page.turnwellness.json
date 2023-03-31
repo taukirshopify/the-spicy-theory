@@ -5,9 +5,29 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738"
   ]
 }
