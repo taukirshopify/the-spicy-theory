@@ -10,6 +10,7 @@
   <div class="innerwrapper">
     <div class="container">
       <div class="inner-banner ">
+        <h2>{{ section.setings.h2 }}</h2>
         <img
           class="wow slideInRight"
           data-wow-offset="3"
@@ -46,6 +47,12 @@
   "name": "Collection bannar",
   "class": "home banner",
   "settings": [
+    {
+      "type": "text",
+      "id": "h2",
+      "label": "Put your title",
+      "default": "SMALL BATCH, HANDCRAFTED SPICE BLENDS"
+    },
     {
       "type": "image_picker",
       "id": "img",
