@@ -17,10 +17,11 @@
         "button_style": "primary",
         "text_alignment": "left",
         "text_width": 40,
+        "image": "shopify:\/\/shop_images\/article-1_600x_b2ef309d-c769-4745-a310-a37dedb19a14.webp",
         "video": "",
         "image_width": 100,
         "image_position": "right",
-        "media_size": "cover",
+        "media_size": "contain",
         "alternate_bg_color": false
       }
     },
