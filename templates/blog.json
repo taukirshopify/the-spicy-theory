@@ -11,7 +11,7 @@
         "show_tags_on_articles": false,
         "show_sharing_icons": true,
         "tile_mode": "tile",
-        "crop_ratio": "1-1",
+        "crop_ratio": "16-9",
         "use_inf_scroll": false
       }
     }
