@@ -507,7 +507,7 @@
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.jpg",
+            "image": "shopify:\/\/shop_images\/Mango_pineapple_margarita.jpg",
             "video": "",
             "image_position": "center center",
             "enlarge_image": false,
@@ -548,7 +548,7 @@
         "button_style": "primary",
         "enable_margin": true,
         "enable_carousel": true,
-        "image_overlay_style": "standard",
+        "image_overlay_style": "none",
         "alternate_bg_color": true,
         "caption_show": true,
         "caption_color": "#464654",
