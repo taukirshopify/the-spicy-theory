@@ -122,7 +122,7 @@
     "c7774cd9-16d4-478d-82bb-22c228ff0bae": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
         "h2 {margin-bottom: 32px;}",
         ".pt-0 {padding: 0;}"
       ],
@@ -146,8 +146,9 @@
     "50bcf467-a7b6-4c6c-8dac-df19efc08980": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
@@ -169,8 +170,9 @@
     "cca48d79-19a4-434f-aca3-0fb717734724": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
@@ -192,8 +194,9 @@
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px;}",
-        "h2 {margin-bottom: 32px;}"
+        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}",
+        ".pt-0 {padding: 0;}"
       ],
       "settings": {
         "subheading": "",
