@@ -98,7 +98,8 @@
     "b08b7277-ecfe-49a0-b3ff-f82667e10f0e": {
       "type": "rich-text",
       "custom_css": [
-        ".pt-0 {padding: 40px; border-radius: 30px;}"
+        ".pt-0 {padding: 40px; border-radius: 30px;}",
+        ".rich-text-section__text .button-container {margin-top: 1rem;}"
       ],
       "settings": {
         "subheading": "TRY OUR JERK QUINOA BOWL USING OUR \"WELCOME TO JAMROCK\" JERK SPICE RUB",
