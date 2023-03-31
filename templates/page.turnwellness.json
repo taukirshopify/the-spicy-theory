@@ -6,15 +6,15 @@
       "settings": {
       }
     },
-    "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
+    "ccf2a0db-f26e-442b-ac76-750bead5887b": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px;}",
+        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
         "h2 {margin-bottom: 32px;}"
       ],
       "settings": {
         "subheading": "",
-        "title": "<b>7<\/b> Evidence based medical practices",
+        "title": "<b>1.<\/b>Let Great Food Be Your Medicine! (Nutrition)",
         "title_size": 28,
         "heading_h1": false,
         "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
@@ -106,7 +106,7 @@
       ],
       "settings": {
         "subheading": "",
-        "title": "<b>5<\/b>DARE to say NO! (Avoid Substance Abuse)",
+        "title": "<b>5.<\/b>DARE to say NO! (Avoid Substance Abuse)",
         "title_size": 28,
         "heading_h1": false,
         "text": "<p>Substance abuse disorders increase your risk for other chronic health conditions. Family history along with environmental factors play a major role in vulnerability to addictive behaviors. Positive health behaviors such as smoking cessation and limiting alcohol intake dramatically reduce your chances of developing hypertension and many forms of cancer. If you are struggling with addiction, seek treatment from a medical professional.<\/p>",
@@ -144,8 +144,12 @@
         "alternate_bg_color": false
       }
     },
-    "ccf2a0db-f26e-442b-ac76-750bead5887b": {
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
       "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px;}",
+        "h2 {margin-bottom: 32px;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "<b>7<\/b> Evidence based medical practices",
@@ -188,13 +192,13 @@
   },
   "order": [
     "main",
-    "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
+    "ccf2a0db-f26e-442b-ac76-750bead5887b",
     "efe2aa4e-6220-45ee-862a-82bab9809f41",
     "0b3cf328-00dd-40b4-bc7c-d84a5876b588",
     "c7774cd9-16d4-478d-82bb-22c228ff0bae",
     "50bcf467-a7b6-4c6c-8dac-df19efc08980",
     "cca48d79-19a4-434f-aca3-0fb717734724",
-    "ccf2a0db-f26e-442b-ac76-750bead5887b",
+    "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
     "fb760f39-a769-4dc6-8d82-c9c0fb443a8b"
   ]
 }
