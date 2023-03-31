@@ -8,6 +8,7 @@
     },
     "606626ba-2448-4e22-9191-7846a23c9723": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_5e24b662-583c-439b-98b4-d1fdf6a390af.webp",
         "image_link": "",
