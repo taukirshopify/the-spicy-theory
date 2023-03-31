@@ -29,6 +29,120 @@
         "alternate_bg_color": false
       }
     },
+    "efe2aa4e-6220-45ee-862a-82bab9809f41": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>2<\/b> Move Your Body, Lively Up Yourself! (Exercise)",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "0b3cf328-00dd-40b4-bc7c-d84a5876b588": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "c7774cd9-16d4-478d-82bb-22c228ff0bae": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "50bcf467-a7b6-4c6c-8dac-df19efc08980": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "cca48d79-19a4-434f-aca3-0fb717734724": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "ccf2a0db-f26e-442b-ac76-750bead5887b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "<b>7<\/b> Evidence based medical practices",
+        "title_size": 28,
+        "heading_h1": false,
+        "text": "<p>Lifestyle medicine is an evidence based approach to preventing, treating and potentially reversing chronic disease and select autoimmune conditions through behavior modification. The Spice Theory supports using the best available scientific information to guide clinical decisions about your health. Continue to schedule your doctors' appointments as routine checkups are essential for disease risk stratification, screenings and medical management of acute and chronic disease.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
     "fb760f39-a769-4dc6-8d82-c9c0fb443a8b": {
       "type": "rich-text",
       "custom_css": [
@@ -55,6 +169,12 @@
   "order": [
     "main",
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
+    "efe2aa4e-6220-45ee-862a-82bab9809f41",
+    "0b3cf328-00dd-40b4-bc7c-d84a5876b588",
+    "c7774cd9-16d4-478d-82bb-22c228ff0bae",
+    "50bcf467-a7b6-4c6c-8dac-df19efc08980",
+    "cca48d79-19a4-434f-aca3-0fb717734724",
+    "ccf2a0db-f26e-442b-ac76-750bead5887b",
     "fb760f39-a769-4dc6-8d82-c9c0fb443a8b"
   ]
 }
