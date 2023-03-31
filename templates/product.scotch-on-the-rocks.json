@@ -103,6 +103,7 @@
     },
     "dfdeac6f-8c46-46a2-9100-c747ec6582d0": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "Media with text",
