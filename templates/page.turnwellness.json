@@ -100,6 +100,10 @@
     },
     "50bcf467-a7b6-4c6c-8dac-df19efc08980": {
       "type": "rich-text",
+      "custom_css": [
+        "h2 b {padding: 11px 16px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 {margin-bottom: 32px;}"
+      ],
       "settings": {
         "subheading": "",
         "title": "<b>5<\/b>DARE to say NO! (Avoid Substance Abuse)",
