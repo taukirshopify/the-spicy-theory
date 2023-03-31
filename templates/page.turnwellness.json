@@ -12,27 +12,8 @@
         "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0": {
           "type": "image",
           "settings": {
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "Subheading",
-            "title": "Tell your story",
-            "title_size": 40,
-            "heading_h1": false,
-            "text": "<p>Pair text with an image to tell a story<\/p>",
-            "enlarge_text": true,
-            "button_1_link": "",
-            "button_1_label": "",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center center"
-          }
-        },
-        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-1": {
-          "type": "image",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_5e24b662-583c-439b-98b4-d1fdf6a390af.webp",
+            "mobile_image": "shopify:\/\/shop_images\/breadcrumb-2_1920x_df48c372-08bc-4f12-8bf7-1fbdc436ad88.webp",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "Subheading",
@@ -53,11 +34,10 @@
         }
       },
       "block_order": [
-        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0",
-        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-1"
+        "template--16071979499693__d414d062-36ad-46f8-b6e6-c0a7acdabcae-1680256341c71f7e59-0"
       ],
       "settings": {
-        "height": "fixed",
+        "height": "adapt",
         "height_desktop": 600,
         "height_mobile": 500,
         "full_width": true,
