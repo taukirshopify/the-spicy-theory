@@ -145,6 +145,25 @@
         "alternate_bg_color": false
       }
     },
+    "b7e98aee-4989-411c-9320-5f3a7c4a6ced": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<h5><p>Here are tips supported by <strong>National Sleep Foundation <\/strong>the to help.<\/p><\/h5><ul><li>Establish a pre-bedtime routine to signal your mind and body to wind down.<\/li><li>Create a tranquil sleep environment that is optimized for relaxation.<\/li><li>Avoid excessive lighting and noise distractions.<\/li><li>Set an appropriate bedroom temperature, and maintain humidity in the 60-70% range.<\/li><li>Unplug from electronic devices.<\/li><li>Avoid substances such as caffeine and alcohol that interfere with sleep.<\/li><li>Avoid napping in bed, and napping in the daytime.<\/li><li>Allow enough time for your food to be digested before turning in. Avoid heavy meals and snacking before bed.<\/li><\/ul>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": false,
+        "color_bg": "#32620e",
+        "alternate_bg_color": false
+      }
+    },
     "c7774cd9-16d4-478d-82bb-22c228ff0bae": {
       "type": "rich-text",
       "custom_css": [
@@ -169,22 +188,22 @@
         "alternate_bg_color": false
       }
     },
-    "b7e98aee-4989-411c-9320-5f3a7c4a6ced": {
-      "type": "rich-text",
+    "6e15cd40-c94e-47af-8324-257f2dace0a2": {
+      "type": "image-with-text",
       "settings": {
         "subheading": "",
         "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "<h5><p>Here are tips supported by <strong>National Sleep Foundation <\/strong>the to help.<\/p><\/h5><ul><li>Establish a pre-bedtime routine to signal your mind and body to wind down.<\/li><li>Create a tranquil sleep environment that is optimized for relaxation.<\/li><li>Avoid excessive lighting and noise distractions.<\/li><li>Set an appropriate bedroom temperature, and maintain humidity in the 60-70% range.<\/li><li>Unplug from electronic devices.<\/li><li>Avoid substances such as caffeine and alcohol that interfere with sleep.<\/li><li>Avoid napping in bed, and napping in the daytime.<\/li><li>Allow enough time for your food to be digested before turning in. Avoid heavy meals and snacking before bed.<\/li><\/ul>",
-        "enlarge_text": false,
+        "text": "<p>Nutrition education provides the foundational support for dietary patterns that can prevent, treat and often reverse chronic disease. The Spice Theory provides practical strategies to incorporate food selection as a primary strategy for health maintenance and longevity. Creating a balanced diet with predominantly whole, plant-based foods is a must! Less on the meat, more heavy on the fiber-rich fruits and vegetables!<\/p><p>Opt for more complex carbohydrates and avoid simple starches that leave you energy depleted. Check out the HEALTHY EATING PLATE from Harvard School of Public Health!<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "text_alignment": "left",
-        "full_width": true,
-        "no_padding": false,
-        "color_bg": "#32620e",
+        "text_width": 70,
+        "image": "shopify:\/\/shop_images\/healthy-eating_900x_0823e0c7-6deb-4df7-9e29-f476e8d9cd15.jpg",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "contain",
         "alternate_bg_color": false
       }
     },
@@ -291,8 +310,9 @@
     "efe2aa4e-6220-45ee-862a-82bab9809f41",
     "b08b7277-ecfe-49a0-b3ff-f82667e10f0e",
     "0b3cf328-00dd-40b4-bc7c-d84a5876b588",
-    "c7774cd9-16d4-478d-82bb-22c228ff0bae",
     "b7e98aee-4989-411c-9320-5f3a7c4a6ced",
+    "c7774cd9-16d4-478d-82bb-22c228ff0bae",
+    "6e15cd40-c94e-47af-8324-257f2dace0a2",
     "50bcf467-a7b6-4c6c-8dac-df19efc08980",
     "cca48d79-19a4-434f-aca3-0fb717734724",
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
