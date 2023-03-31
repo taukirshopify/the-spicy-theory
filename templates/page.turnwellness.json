@@ -194,7 +194,7 @@
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px; display: inline-block; margin-bottom: 7px;}",
         "h2 {margin-bottom: 32px;}",
         ".pt-0 {padding: 0;}"
       ],
@@ -236,6 +236,25 @@
         "color_bg": "#5c8018",
         "alternate_bg_color": true
       }
+    },
+    "b08b7277-ecfe-49a0-b3ff-f82667e10f0e": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "TRY OUR JERK QUINOA BOWL USING OUR \"WELCOME TO JAMROCK\" JERK SPICE RUB",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "LIVE WELL. EAT WELL!",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "full_width": true,
+        "no_padding": false,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
     }
   },
   "order": [
@@ -249,6 +268,7 @@
     "50bcf467-a7b6-4c6c-8dac-df19efc08980",
     "cca48d79-19a4-434f-aca3-0fb717734724",
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738",
-    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b"
+    "fb760f39-a769-4dc6-8d82-c9c0fb443a8b",
+    "b08b7277-ecfe-49a0-b3ff-f82667e10f0e"
   ]
 }
