@@ -9,8 +9,8 @@
     "5a0953dc-5efe-4d22-b1a3-b80b8334b738": {
       "type": "rich-text",
       "custom_css": [
-        "h2 b {padding: 11px 20px; background: #5C8018; color: #fff; border-radius: 9px; margin-right: 5px;}",
-        "h2{margin-bottom:10px;}"
+        "h2 b {padding: 11px 20px; background: #5c8018; color: #fff; border-radius: 9px; margin-right: 5px;}",
+        "h2 {margin-bottom: 32px;}"
       ],
       "settings": {
         "subheading": "",
