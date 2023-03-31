@@ -322,7 +322,7 @@
         "full_width": true,
         "height_desktop": 600,
         "height_mobile": 500,
-        "image_overlay_style": "standard"
+        "image_overlay_style": "none"
       }
     },
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba": {
