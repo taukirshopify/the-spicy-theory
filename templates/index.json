@@ -3,7 +3,7 @@
     "feebce35-2433-4981-8a19-c0aa5ce10671": {
       "type": "background-video",
       "custom_css": [
-        ".has-tint .overlay, .has-tint .image-overlay {z-index: 1; color: #ffffff; overflow: hidden;}"
+        "h1 {color: #ffffff;}"
       ],
       "settings": {
         "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/60afef7b14ea4e4ba0acac2e209fd6b3.mp4",
@@ -263,6 +263,9 @@
     },
     "4f5b1015-7efd-495c-8c2f-fc27d4c94ebb": {
       "type": "background-video",
+      "custom_css": [
+        "h1 {color: #ffffff;}"
+      ],
       "settings": {
         "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/219df771e858411ab6c6671498324f05.mp4",
         "placeholder_image": "shopify:\/\/shop_images\/1.jpg",
