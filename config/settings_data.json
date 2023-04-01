@@ -227,7 +227,7 @@
           "title_size": 40,
           "subtext": "<p>Deals, new products, and promotions straight to your email.<\/p>",
           "color_bg": "#f4f4f4",
-          "alternate_bg_color": false,
+          "alternate_bg_color": true,
           "full_width": false
         }
       }

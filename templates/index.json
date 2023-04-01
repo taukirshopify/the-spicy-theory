@@ -553,17 +553,6 @@
         "media_size": "contain",
         "alternate_bg_color": true
       }
-    },
-    "1590157903142": {
-      "type": "newsletter",
-      "settings": {
-        "heading": "Subscribe To Our Newsletter",
-        "title_size": 32,
-        "subtext": "<p>Deals, new products, and promotions straight to your email.<\/p>",
-        "color_bg": "#ffffff",
-        "alternate_bg_color": false,
-        "full_width": true
-      }
     }
   },
   "order": [
@@ -580,7 +569,6 @@
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52",
     "de0a8668-c6f1-476b-a453-6276da816b0b",
     "1590158040284",
-    "eadde674-a7bf-492f-9e7c-5ad05df623e0",
-    "1590157903142"
+    "eadde674-a7bf-492f-9e7c-5ad05df623e0"
   ]
 }
