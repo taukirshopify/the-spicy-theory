@@ -6187,5 +6187,8 @@ $(window).scroll(function() {
   $('#shopify-section-template--16071583334573__e862ecc4-6eec-4f50-acf9-ee2f97c9713e .rimage__image').css({ transform: 'rotate(' + theta + 'rad)' });
   console.log("this is working");
 });
+$( document ).ready(function() {
+$("#shopify-section-template--16072780251309__feebce35-2433-4981-8a19-c0aa5ce10671 .inner").show().delay(4000).fadeOut();
+});
 })(theme.jQuery);  
-/* Built with Barry v1.0.8 */
+/* Built with Barry v1.0.8 */ 
