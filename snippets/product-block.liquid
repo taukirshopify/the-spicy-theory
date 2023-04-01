@@ -252,12 +252,7 @@
 
     {% if show_quickbuy %}
       {% if product.variants.size > 1 %}
-        <div class="product-form">
-          <a class="quick-buy btn {% unless product.available %}disabled{% endunless %}" href="{{ product_url }}" data-product-id="{{ product.id }}">
-            {% if product.available %}{{ 'products.grid.choose_options' | t }}{% else %}{{ 'products.product.unavailable' | t }}{% endif %}
-          </a>
-          {% render 'quick-buy-placeholder', product: product %}
-        </div>
+      
       {% else %}
         {%- assign current_variant = product.selected_or_first_available_variant -%}
         {%- if settings.cart_type contains 'drawer' -%}
