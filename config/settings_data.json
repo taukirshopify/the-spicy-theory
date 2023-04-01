@@ -51,7 +51,7 @@
     "prod_thumb_gap": "10",
     "prod_thumb_show_border": true,
     "product_grid_hover_image": true,
-    "product_grid_show_weight": true,
+    "product_grid_show_weight": false,
     "prod_block_layout": "above align-center",
     "label_sale_show": true,
     "prod_sale_method": "money",
