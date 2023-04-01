@@ -58,23 +58,11 @@
         "media_size": "contain",
         "alternate_bg_color": true
       }
-    },
-    "f33f8658-8943-4171-84ad-19ec7ed0185c": {
-      "type": "newsletter",
-      "settings": {
-        "heading": "Subscribe to our newsletter",
-        "title_size": 40,
-        "subtext": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
-        "color_bg": "#ffffff",
-        "alternate_bg_color": false,
-        "full_width": false
-      }
     }
   },
   "order": [
     "08c06c79-e5a5-4099-9be0-a9eb79fa2d76",
     "main",
-    "a7e5b86d-c66a-4f89-97f7-2a4961621b3d",
-    "f33f8658-8943-4171-84ad-19ec7ed0185c"
+    "a7e5b86d-c66a-4f89-97f7-2a4961621b3d"
   ]
 }
