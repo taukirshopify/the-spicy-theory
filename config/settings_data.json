@@ -226,8 +226,8 @@
           "heading": "Subscribe to our newsletter",
           "title_size": 40,
           "subtext": "<p>Deals, new products, and promotions straight to your email.<\/p>",
-          "color_bg": "#f4f4f4",
-          "alternate_bg_color": true,
+          "color_bg": "#ffffff",
+          "alternate_bg_color": false,
           "full_width": false
         }
       }
