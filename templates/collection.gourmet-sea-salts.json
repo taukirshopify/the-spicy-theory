@@ -3,10 +3,12 @@
     "13b66e66-1e41-42fa-84a5-8dbfae1add6b": {
       "type": "homebannar",
       "custom_css": [
-        "h2 {font-size: 70px; line-height: 2;}"
+        "h2 {font-size: 70px; line-height: 2;}",
+        "@media only screen and (max-width: 1280px) and (min-width: 1000px) {h2 {font-size: 50px; line-height: 1.6; }}",
+        "@media only screen and (max-width: 999px) and (min-width: 600px) {h2 {font-size: 35px; line-height: 1; margin-left: 20px; }}"
       ],
       "settings": {
-        "h2": "SMALL BATCH,  HANDCRAFTED <br> SPICE BLENDS",
+        "h2": "SMALL BATCH,  HANDCRAFTED  SPICE BLENDS",
         "img": "shopify:\/\/shop_images\/IMG_8349-removebg-preview_1.png",
         "bottom-sheap": "shopify:\/\/shop_images\/slider-shape-1.svg"
       }
