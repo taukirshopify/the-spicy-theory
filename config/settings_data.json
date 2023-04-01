@@ -67,7 +67,7 @@
     "prod_quick_buy_pos": "bottomcorner",
     "collection_thumb_shape": "circle",
     "collection_text_alignment": "center",
-    "swatch_enabled": true,
+    "swatch_enabled": false,
     "prod_thumb_show_options": false,
     "search_type": "product,article,page",
     "social_twitter_url": "",
