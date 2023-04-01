@@ -6184,7 +6184,7 @@
   });
 $(window).scroll(function() {
   var theta = $(window).scrollTop() / 90 % Math.PI;
-  $('#section-id-template--16057255526573__e862ecc4-6eec-4f50-acf9-ee2f97c9713e .rimage__image').css({ transform: 'rotate(' + theta + 'rad)' });
+  $('#shopify-section-template--16071583334573__e862ecc4-6eec-4f50-acf9-ee2f97c9713e .rimage__image').css({ transform: 'rotate(' + theta + 'rad)' });
   console.log("this is working");
 });
 })(theme.jQuery);  
