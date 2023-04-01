@@ -14,21 +14,9 @@
         "crop_ratio": "3-4",
         "use_inf_scroll": true
       }
-    },
-    "d0c98eae-8283-442b-b0d0-a96e2415898c": {
-      "type": "newsletter",
-      "settings": {
-        "heading": "Subscribe to our newsletter",
-        "title_size": 40,
-        "subtext": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
-        "color_bg": "#ffffff",
-        "alternate_bg_color": false,
-        "full_width": false
-      }
     }
   },
   "order": [
-    "main",
-    "d0c98eae-8283-442b-b0d0-a96e2415898c"
+    "main"
   ]
 }
