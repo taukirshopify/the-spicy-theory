@@ -2,8 +2,11 @@
   "sections": {
     "08c06c79-e5a5-4099-9be0-a9eb79fa2d76": {
       "type": "homebannarcollection",
+      "custom_css": [
+        "h2 {font-size: -webkit-xxx-large;}"
+      ],
       "settings": {
-        "h2": "SMALL BATCH, <br> HANDCRAFTED SPICE BLENDS",
+        "h2": "SMALL BATCH,  HANDCRAFTED SPICE BLENDS",
         "img": "shopify:\/\/shop_images\/slide-img-1_6796d0c8-415f-4252-935b-b295b4cb4c71.png",
         "bottom-sheap": "shopify:\/\/shop_images\/slider-shape-1.svg"
       }
