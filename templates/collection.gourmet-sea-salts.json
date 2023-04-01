@@ -3,10 +3,10 @@
     "13b66e66-1e41-42fa-84a5-8dbfae1add6b": {
       "type": "homebannar",
       "custom_css": [
-        "h2 {font-size: -webkit-xxx-large;}"
+        "h2 {font-size: 70px; line-height: 2;}"
       ],
       "settings": {
-        "h2": "SMALL BATCH,  HANDCRAFTED SPICE BLENDS",
+        "h2": "SMALL BATCH,  HANDCRAFTED <br> SPICE BLENDS",
         "img": "shopify:\/\/shop_images\/IMG_8349-removebg-preview_1.png",
         "bottom-sheap": "shopify:\/\/shop_images\/slider-shape-1.svg"
       }
@@ -58,23 +58,11 @@
         "media_size": "contain",
         "alternate_bg_color": true
       }
-    },
-    "f33f8658-8943-4171-84ad-19ec7ed0185c": {
-      "type": "newsletter",
-      "settings": {
-        "heading": "Subscribe to our newsletter",
-        "title_size": 40,
-        "subtext": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
-        "color_bg": "#ffffff",
-        "alternate_bg_color": false,
-        "full_width": false
-      }
     }
   },
   "order": [
     "13b66e66-1e41-42fa-84a5-8dbfae1add6b",
     "main",
-    "a7e5b86d-c66a-4f89-97f7-2a4961621b3d",
-    "f33f8658-8943-4171-84ad-19ec7ed0185c"
+    "a7e5b86d-c66a-4f89-97f7-2a4961621b3d"
   ]
 }
