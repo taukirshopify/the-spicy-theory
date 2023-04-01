@@ -76,6 +76,16 @@
           </ul>
         </div>
         {% endif %}
+              {% if section.settings.footer_linklist3 != blank %}
+        <div class="links-column column" role="navigation" aria-label="{{ 'layout.footer.menu_3_aria_label' | t | escape }}">
+          <ul class="plain">
+           <p class="upper" >{{ section.settings.footer_linklist3.title }} </p>
+            {% for link in linklists[section.settings.footer_linklist3].links %}
+              <li>{{ link.title | link_to: link.url }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
       </div>
 
     {% else %}
