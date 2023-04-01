@@ -264,7 +264,7 @@
     "4f5b1015-7efd-495c-8c2f-fc27d4c94ebb": {
       "type": "background-video",
       "custom_css": [
-        "h1 {color: #ffffff;}"
+        "h2 {color: #ffffff;}"
       ],
       "settings": {
         "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/219df771e858411ab6c6671498324f05.mp4",
