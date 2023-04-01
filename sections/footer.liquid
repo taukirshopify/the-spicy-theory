@@ -77,12 +77,7 @@
         {% endif %}
               {% if section.settings.footer_linklist3 != blank %}
         <div class="links-column column" role="navigation" aria-label="{{ 'layout.footer.menu_3_aria_label' | t | escape }}">
-          <ul class="plain">
-           <p class="upper" >{{ section.settings.footer_linklist3.title }} </p>
-            {% for link in linklists[section.settings.footer_linklist3].links %}
-              <li>{{ link.title | link_to: link.url }}</li>
-            {% endfor %}
-          </ul>
+            {% render 'social-icons', icon_setting: settings.social_custom_icon_footer, icon_size: 'x48' %}
         </div>
         {% endif %}
       </div>
