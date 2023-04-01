@@ -15,7 +15,7 @@
     assign results_count = results.products_count
   endif
 
-  if mode == "collection"
+  if mode == 'collection'
     assign translation_sort_title = 'collections.sorting.title' | t
     assign translation_submit_button = 'collections.filtering.submit' | t
     assign translation_clear_all = 'collections.filtering.clear_all' | t
@@ -24,7 +24,7 @@
     assign translation_filter_all = 'collections.filtering.all' | t
     assign translation_result_count = 'collections.general.results' | t: count: results_count
 
-  elsif mode == "search"
+  elsif mode == 'search'
     assign translation_sort_title = 'general.search.sort_title' | t
     assign translation_submit_button = 'general.search.submit' | t
     assign translation_clear_all = 'general.search.filtering.clear_all' | t
@@ -37,14 +37,14 @@
   assign show_filters = false
   for filter in results.filters
     case filter.type
-      when "list"
+      when 'list'
         for value in filter.values
           if value.count > 0
             assign show_filters = true
             break
           endif
         endfor
-      when "price_range"
+      when 'price_range'
         assign show_filters = true
         break
     endcase
@@ -99,12 +99,15 @@
   {% endcapture %}
 
   {%- if show_filters -%}
-    {%- unless section.settings.filter_mode == "none" and section.settings.enable_sorting == false -%}
-      <form data-filter-form class="product-list-toolbar {% if section.settings.filters_sticky %}product-list-toolbar--sticky{% endif %}"
-            data-cc-animate data-cc-animate-delay="0.2s">
-
+    {%- unless section.settings.filter_mode == 'none' and section.settings.enable_sorting == false -%}
+      <form
+        data-filter-form
+        class="product-list-toolbar {% if section.settings.filters_sticky %}product-list-toolbar--sticky{% endif %}"
+        data-cc-animate
+        data-cc-animate-delay="0.2s"
+      >
         <div class="cc-toolbar-buttons cc-toolbar-buttons--filters">
-          {% if section.settings.filter_mode == "sidebar" %}
+          {% if section.settings.filter_mode == 'sidebar' %}
             <a href="#" class="cc-toolbar-filter-toggle">
               {% render 'svg-filter.liquid' %}
               {{ translation_filter }}
@@ -112,11 +115,11 @@
             </a>
           {% endif %}
 
-          {% if section.settings.filter_mode == "simple" %}
+          {% if section.settings.filter_mode == 'simple' %}
             {%- for filter in results.filters -%}
               {%- assign num_available_options = 0 -%}
               {%- case filter.type -%}
-                {%- when "list" -%}
+                {%- when 'list' -%}
                   {% capture option %}
                     <span class="tags filter">
                       <label for="filter-by-{{ filter.label | handleize }}">{{ filter.label }}:</label>
@@ -147,23 +150,25 @@
           {% else %}
             {%- for filter in results.filters -%}
               {%- case filter.type -%}
-                {%- when "list" -%}
+                {%- when 'list' -%}
                   {%- for value in filter.values -%}
                     {%- if value.active -%}
-                      <input type="hidden" name="{{ value.param_name }}" value="{{ value.value | escape }}"/>
+                      <input type="hidden" name="{{ value.param_name }}" value="{{ value.value | escape }}">
                     {%- endif -%}
                   {%- endfor -%}
 
-                {%- when "price_range" -%}
+                {%- when 'price_range' -%}
                   {%- liquid
-                    assign currencies_using_comma_decimals = "ANG,ARS,BRL,BYN,BYR,CLF,CLP,COP,CRC,CZK,DKK,EUR,HRK,HUF,IDR,ISK,MZN,NOK,PLN,RON,RUB,SEK,TRY,UYU,VES,VND" | split: ','
+                    assign currencies_using_comma_decimals = 'ANG,ARS,BRL,BYN,BYR,CLF,CLP,COP,CRC,CZK,DKK,EUR,HRK,HUF,IDR,ISK,MZN,NOK,PLN,RON,RUB,SEK,TRY,UYU,VES,VND' | split: ','
                     assign uses_comma_decimals = false
                     if currencies_using_comma_decimals contains cart.currency.iso_code
                       assign uses_comma_decimals = true
                     endif
                   -%}
 
-                  <input type="hidden" name="{{ filter.min_value.param_name }}"
+                  <input
+                    type="hidden"
+                    name="{{ filter.min_value.param_name }}"
                     {%- if filter.min_value.value -%}
                       {%- if uses_comma_decimals -%}
                         value="{{ filter.min_value.value | money_without_currency | replace: '.', '' | replace: ',', '.' | round }}"
@@ -171,9 +176,11 @@
                         value="{{ filter.min_value.value | money_without_currency | replace: ',', '' | round }}"
                       {%- endif -%}
                     {%- endif -%}
-                  />
+                  >
 
-                  <input type="hidden" name="{{ filter.max_value.param_name }}"
+                  <input
+                    type="hidden"
+                    name="{{ filter.max_value.param_name }}"
                     {%- if filter.max_value.value -%}
                       {%- if uses_comma_decimals -%}
                         value="{{ filter.max_value.value | money_without_currency | replace: '.', '' | replace: ',', '.' | round }}"
@@ -181,7 +188,7 @@
                         value="{{ filter.max_value.value | money_without_currency | replace: ',', '' | round }}"
                       {%- endif -%}
                     {%- endif -%}
-                  />
+                  >
               {%- endcase -%}
             {%- endfor -%}
           {% endif %}
@@ -202,27 +209,35 @@
         {%- if section.settings.enable_sorting == false -%}
           <input type="hidden" name="sort_by" value="{{ current_sort }}">
         {%- endif -%}
-
       </form>
     {% endunless %}
   {% endif %}
 
-  <div class="{% if section.settings.filter_mode == "sidebar" and show_filters %}cc-product-filter-container{% endif %}"
-       data-ajax-container>
-    {% if section.settings.filter_mode == "sidebar" and show_filters %}
+  <div
+    class="{% if section.settings.filter_mode == "sidebar" and show_filters %}cc-product-filter-container{% endif %}"
+    data-ajax-container
+  >
+    {% if section.settings.filter_mode == 'sidebar' and show_filters %}
       <div class="cc-product-filter__mob-veil"></div>
 
       {% if results.filters.size > 0 %}
-        <form data-filter-form class="cc-product-filter {% if section.settings.filters_sticky %}cc-product-filter--sticky cc-sticky-scroll-direction{% endif %}">
+        <form
+          data-filter-form
+          class="cc-product-filter {% if section.settings.filters_sticky %}cc-product-filter--sticky cc-sticky-scroll-direction{% endif %}"
+        >
           <h2 class="cc-product-filter__mob_title">{{ translation_filter }}</h2>
 
-          <button type="button" class="cc-product-filter__close" aria-label="{{ 'general.accessibility_labels.close' | t | escape }}">
+          <button
+            type="button"
+            class="cc-product-filter__close"
+            aria-label="{{ 'general.accessibility_labels.close' | t | escape }}"
+          >
             {% render 'popup-close' %}
           </button>
 
           {%- for filter in results.filters -%}
             {%- liquid
-              if settings.swatch_enabled and settings.swatch_show_filters and settings.swatch_option_name contains filter.label and filter.type == "list"
+              if settings.swatch_enabled and settings.swatch_show_filters and settings.swatch_option_name contains filter.label and filter.type == 'list'
                 assign filter_group_is_swatch = true
               else
                 assign filter_group_is_swatch = false
@@ -301,12 +316,16 @@
             {%- endcapture -%}
 
             {%- if num_available_options > 0 or section.settings.show_filter_deadends -%}
-              {%- render "accordion", first_item_open: filter_is_open, item1_title: filter_title, item1_content: filter_content -%}
+              {%- render 'accordion',
+                first_item_open: filter_is_open,
+                item1_title: filter_title,
+                item1_content: filter_content
+              -%}
             {%- endif -%}
           {%- endfor -%}
 
           <noscript>
-            <br/>
+            <br>
             <button type="submit" class="btn">{{ translation_submit_button }}</button>
           </noscript>
 
@@ -323,10 +342,14 @@
       {% endif %}
     {% endif %}
 
-    <div class="product-list-container product-list-container--{{ section.settings.filter_mode }}
-      {% if section.settings.filter_mode == "none" and section.settings.enable_sorting == false %}no-filters{% endif %}"
-         data-cc-animate data-cc-animate-delay="0.2s">
-
+    <div
+      class="
+        product-list-container product-list-container--{{ section.settings.filter_mode }}
+        {% if section.settings.filter_mode == "none" and section.settings.enable_sorting == false %}no-filters{% endif %}
+      "
+      data-cc-animate
+      data-cc-animate-delay="0.2s"
+    >
       {% capture active_filters_html %}
         <div class="active-filter-controls-container">
           <ul class="active-filter-controls">
@@ -373,22 +396,34 @@
       {%- endif -%}
 
       {% if results_count > 0 %}
-        {% if mode == "search" %}
-          <div class="product-list product-grid row grid {% if section.settings.infinite_scroll_enabled %}use-infinite-scroll{% endif %}"
-               data-normheights=".image" data-normheights-inner="img" data-cc-animate data-cc-animate-delay="0.4s">
+        {% if mode == 'search' %}
+          <div
+            class="product-list product-grid row grid {% if section.settings.infinite_scroll_enabled %}use-infinite-scroll{% endif %}"
+            data-normheights=".image"
+            data-normheights-inner="img"
+            data-cc-animate
+            data-cc-animate-delay="0.4s"
+          >
             {% for item in search.results %}
               {% if item.object_type == 'product' %}
-                {% render 'product-block', product: item, max_cols: section.settings.products_per_row, min_cols: section.settings.mobile_products_per_row  %}
+                {% render 'product-block',
+                  product: item,
+                  max_cols: section.settings.products_per_row,
+                  min_cols: section.settings.mobile_products_per_row
+                %}
               {% else %}
-
                 <div class="product-block page-block flex column max-cols-{{ section.settings.products_per_row }} min-cols-{{ section.settings.mobile_products_per_row }} product-block--gutter-{{ settings.prod_thumb_gutter }} product-block--gap-{{ settings.prod_thumb_gap }} product-block--border-{{ settings.prod_thumb_show_border }}">
                   <div class="product-block__inner">
                     <div class="text-cont">
                       {% if item.object_type == 'article' and item.image %}
                         <div class="article-image">{% render 'responsive-image', image: item.image %}</div>
                       {% endif %}
-                      <h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
-                      <div><a href="{{ item.url }}">{{ item.content | strip_html | truncatewords: 25 }}</a></div>
+                      <h4>
+                        <a href="{{ item.url }}">{{ item.title }}</a>
+                      </h4>
+                      <div>
+                        <a href="{{ item.url }}">{{ item.content | strip_html | truncatewords: 25 }}</a>
+                      </div>
                       <a class="more-link" href="{{ item.url }}">{{ 'general.search.read_more' | t }}</a>
                     </div>
                   </div>
@@ -397,12 +432,17 @@
             {% endfor %}
 
             {%- for i in (1..section.settings.products_per_row) -%}
-              <div class="product-block product-block--flex-spacer flex column max-cols-{{ section.settings.products_per_row }} min-cols-{{ section.settings.mobile_products_per_row }}"></div>
+              <div
+                class="product-block product-block--flex-spacer flex column max-cols-{{ section.settings.products_per_row }} min-cols-{{ section.settings.mobile_products_per_row }}"
+              ></div>
             {%- endfor -%}
           </div>
-        {% elsif mode == "collection" %}
-          <div class="product-list product-grid row grid {% if section.settings.infinite_scroll_enabled %}use-infinite-scroll{% endif %}"
-               data-normheights=".image" data-normheights-inner="img">
+        {% elsif mode == 'collection' %}
+          <div
+            class="product-list product-grid row grid {% if section.settings.infinite_scroll_enabled %}use-infinite-scroll{% endif %}"
+            data-normheights=".image"
+            data-normheights-inner="img"
+          >
             {% capture product_blocks %}
               {%- for product in collection.products -%}
                 {% render 'product-block', product: product, max_cols: section.settings.products_per_row, min_cols: section.settings.mobile_products_per_row %}
@@ -410,13 +450,19 @@
             {% endcapture %}
 
             {%- if product_blocks contains 'product-block__weight-value' -%}
-              {{ product_blocks | replace: '<div class="product-block__weight"></div>', '<div class="product-block__weight">&nbsp;</div>' }}
+              {{
+                product_blocks
+                | replace: '<div class="product-block__weight"></div>',
+                  '<div class="product-block__weight">&nbsp;</div>'
+              }}
             {%- else -%}
               {{ product_blocks }}
             {%- endif -%}
 
             {%- for i in (1..section.settings.products_per_row) -%}
-              <div class="product-block product-block--flex-spacer flex column max-cols-{{ section.settings.products_per_row }} min-cols-{{ section.settings.mobile_products_per_row }}"></div>
+              <div
+                class="product-block product-block--flex-spacer flex column max-cols-{{ section.settings.products_per_row }} min-cols-{{ section.settings.mobile_products_per_row }}"
+              ></div>
             {%- endfor -%}
           </div>
         {% endif %}
