@@ -77,8 +77,9 @@
         {% endif %}
               {% if section.settings.footer_linklist3 != blank %}
 
-               <p class="upper" >FOLLOW US!</p>
+               
         <div class="links-column column" role="navigation" aria-label="{{ 'layout.footer.menu_3_aria_label' | t | escape }}">
+                <p class="upper" >FOLLOW US!</p>
             {% render 'social-icons', icon_setting: settings.social_custom_icon_footer, icon_size: 'x48' %}
         </div>
         {% endif %}
