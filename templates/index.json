@@ -3,7 +3,7 @@
     "feebce35-2433-4981-8a19-c0aa5ce10671": {
       "type": "background-video",
       "custom_css": [
-
+        "h1 {color: #ffffff;}"
       ],
       "settings": {
         "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/60afef7b14ea4e4ba0acac2e209fd6b3.mp4",
@@ -21,49 +21,6 @@
         "height_desktop": 600,
         "height_mobile": 500,
         "image_overlay_style": "standard"
-      }
-    },
-    "1478797384865": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "1478797384865-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/banner_94f5ec53-c0b9-46aa-a55e-f698538818a8.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "Spice Up Your Cooking With The Spice Theory",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_1_link": "shopify:\/\/collections",
-            "button_1_label": "SHOP NOW",
-            "button_1_style": "secondary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1478797384865-0"
-      ],
-      "settings": {
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 480,
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "image_overlay_style": "shadow",
-        "slide_transition": "fade",
-        "slide_navigation": "arrows",
-        "autoplay": false,
-        "autoplay_speed": 8
       }
     },
     "a4b6affc-1449-4495-82f0-4e4371cb638e": {
@@ -306,6 +263,9 @@
     },
     "4f5b1015-7efd-495c-8c2f-fc27d4c94ebb": {
       "type": "background-video",
+      "custom_css": [
+        "h2 {color: #ffffff;}"
+      ],
       "settings": {
         "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/219df771e858411ab6c6671498324f05.mp4",
         "placeholder_image": "shopify:\/\/shop_images\/1.jpg",
@@ -322,7 +282,7 @@
         "full_width": true,
         "height_desktop": 600,
         "height_mobile": 500,
-        "image_overlay_style": "standard"
+        "image_overlay_style": "none"
       }
     },
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba": {
@@ -498,7 +458,7 @@
             "image_position": "center center",
             "enlarge_image": false,
             "subheading": "",
-            "title": "CHICKEN RECIPE",
+            "title": "",
             "button_label": "",
             "link": "",
             "text_alignment": "center center"
@@ -507,12 +467,12 @@
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.jpg",
+            "image": "shopify:\/\/shop_images\/Mango_pineapple_margarita.jpg",
             "video": "",
             "image_position": "center center",
             "enlarge_image": false,
             "subheading": "",
-            "title": "BROILED SALMON",
+            "title": "",
             "button_label": "",
             "link": "",
             "text_alignment": "center center"
@@ -526,7 +486,7 @@
             "image_position": "center center",
             "enlarge_image": false,
             "subheading": "",
-            "title": "JERK FAJITA",
+            "title": "",
             "button_label": "",
             "link": "",
             "text_alignment": "center center"
@@ -548,7 +508,7 @@
         "button_style": "primary",
         "enable_margin": true,
         "enable_carousel": true,
-        "image_overlay_style": "standard",
+        "image_overlay_style": "none",
         "alternate_bg_color": true,
         "caption_show": true,
         "caption_color": "#464654",
@@ -608,7 +568,6 @@
   },
   "order": [
     "feebce35-2433-4981-8a19-c0aa5ce10671",
-    "1478797384865",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
     "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c",

@@ -5,18 +5,30 @@
       "settings": {
         "blog_show_title": true,
         "show_rss": true,
-        "show_tags": true,
-        "show_author": true,
-        "show_meta_on_listing": true,
-        "show_tags_on_articles": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_meta_on_listing": false,
+        "show_tags_on_articles": false,
         "show_sharing_icons": true,
         "tile_mode": "tile",
         "crop_ratio": "3-4",
-        "use_inf_scroll": false
+        "use_inf_scroll": true
+      }
+    },
+    "d0c98eae-8283-442b-b0d0-a96e2415898c": {
+      "type": "newsletter",
+      "settings": {
+        "heading": "Subscribe to our newsletter",
+        "title_size": 40,
+        "subtext": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+        "color_bg": "#ffffff",
+        "alternate_bg_color": false,
+        "full_width": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "d0c98eae-8283-442b-b0d0-a96e2415898c"
   ]
 }
