@@ -254,7 +254,7 @@
       {% if product.variants.size > 1 %}
         <div class="product-form">
           <a class="quick-buy btn {% unless product.available %}disabled{% endunless %}" href="{{ product_url }}" data-product-id="{{ product.id }}">
-           
+            {% if product.available %}SHOP NOW{% else %}{{ 'products.product.unavailable' | t }}{% endif %}
           </a>
           {% render 'quick-buy-placeholder', product: product %}
         </div>
