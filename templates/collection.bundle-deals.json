@@ -4,7 +4,7 @@
       "type": "homebannarcollection",
       "custom_css": [
         "h2 {font-size: 70px; line-height: 2;}",
-        "@media only screen and (max-width: 100px) and (min-width: 1280px) {h2 {font-size: 50px; line-height: ;} }"
+        "@media only screen and (max-width: 120px) and (min-width: 1000px) {h2 {font-size: 50px; line-height: 1.6; }}"
       ],
       "settings": {
         "h2": "SMALL BATCH,  HANDCRAFTED   SPICE BLENDS",
