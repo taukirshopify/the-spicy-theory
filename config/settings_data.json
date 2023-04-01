@@ -219,6 +219,17 @@
         "settings": {
           "maxwidth": 1920
         }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "heading": "Subscribe to our newsletter",
+          "title_size": 40,
+          "subtext": "<p>Deals, new products, and promotions straight to your email.<\/p>",
+          "color_bg": "#f4f4f4",
+          "alternate_bg_color": false,
+          "full_width": false
+        }
       }
     },
     "content_for_index": [
