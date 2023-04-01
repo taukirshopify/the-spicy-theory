@@ -205,7 +205,7 @@
           "announcement_text": "FREE SHIPPING ON PURCHASES OVER $100",
           "announcement_link": "",
           "show_social_icons": true,
-          "show_country_selector": true,
+          "show_country_selector": false,
           "show_language_selector": true
         }
       },
