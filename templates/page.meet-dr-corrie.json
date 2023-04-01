@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        "h1.page-title.cc-animate-init.-in.cc-animate-complete {display: none;}"
+      ],
       "settings": {
       }
     },
