@@ -151,7 +151,7 @@
           "footer_linklist3": "company",
           "footer_display_newsletter": false,
           "newsletter_text": "",
-          "show_country_selector": true,
+          "show_country_selector": false,
           "show_language_selector": true
         }
       },
