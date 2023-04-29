@@ -129,7 +129,7 @@
           "nav_alignment": "center",
           "nav_col_limit_int": 8,
           "nav_featured_link": "Sale",
-          "cart_icon": "basket2",
+          "cart_icon": "cart",
           "search_bar": "input",
           "search_text_box_large": false,
           "search_type_dropdown": true
