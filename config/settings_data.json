@@ -79,6 +79,7 @@
     "currency_code_enabled": true,
     "cart_currency_code_enabled": true,
     "superscript_decimals": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/T.S.T_logo_ce69db05-871e-419d-8e6c-dd906afbb7c1.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#fff",
