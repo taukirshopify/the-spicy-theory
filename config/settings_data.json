@@ -278,7 +278,7 @@
       },
       "1476460571416118356": {
         "type": "shopify:\/\/apps\/flowio-email-marketing-pop-up\/blocks\/app-embed\/81f7f7b6-2c8e-4c5e-8541-1e81b7e0d680",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
