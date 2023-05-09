@@ -244,12 +244,6 @@
         "settings": {
         }
       },
-      "1476460571416118356": {
-        "type": "shopify:\/\/apps\/email-pop-up-live-chat-sms\/blocks\/app-embed\/81f7f7b6-2c8e-4c5e-8541-1e81b7e0d680",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "11825749942329260384": {
         "type": "shopify:\/\/apps\/fueled-google-analytics-ga4\/blocks\/fueled-embed\/b7733e10-32a6-41fd-a62d-3195dc211aa9",
         "disabled": false,
@@ -279,6 +273,12 @@
       "15551562133269743879": {
         "type": "shopify:\/\/apps\/codeinspire-accessibility-tool\/blocks\/app-embed\/9c320235-d5d5-4e1c-baf6-809572578ea3",
         "disabled": false,
+        "settings": {
+        }
+      },
+      "1476460571416118356": {
+        "type": "shopify:\/\/apps\/flowio-email-marketing-pop-up\/blocks\/app-embed\/81f7f7b6-2c8e-4c5e-8541-1e81b7e0d680",
+        "disabled": true,
         "settings": {
         }
       }
