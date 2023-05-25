@@ -251,12 +251,6 @@
           "track": true
         }
       },
-      "3963168908920010956": {
-        "type": "shopify:\/\/apps\/swift-page-speed-optimizer\/blocks\/app-embed\/a10b8339-a20a-4621-a093-32380d49773b",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "14060646107696862457": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
