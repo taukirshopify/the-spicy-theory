@@ -7,7 +7,7 @@
         ".image-overlay {position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-align: center; display: flex; align-items: center; justify-content: center; background: #0000001a;}"
       ],
       "settings": {
-        "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/60afef7b14ea4e4ba0acac2e209fd6b3.mp4",
+        "video": "https:\/\/youtu.be\/Rg1xEU83tac",
         "subheading": "",
         "title": "Spice Up Your Cooking With The Spice Theory",
         "title_size": 40,
@@ -262,7 +262,6 @@
     },
     "58f6bd34-e607-455c-a211-e7fb5226c4a4": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-0": {
           "type": "vendor_and_type",
@@ -320,6 +319,7 @@
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-5",
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-6"
       ],
+      "disabled": true,
       "settings": {
         "product": "build-your-own-tst-salt-duo",
         "page_width": "medium",
@@ -355,7 +355,6 @@
     },
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16057255526573__8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba-16791505213d06547d-0": {
           "type": "image",
@@ -431,6 +430,7 @@
         "template--16057255526573__8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba-16791505213d06547d-1",
         "c6a337ca-bed5-40ca-9173-62a111154d2d"
       ],
+      "disabled": true,
       "settings": {
         "height": "fixed",
         "height_desktop": 600,
@@ -446,7 +446,6 @@
     },
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-0": {
           "type": "vendor_and_type",
@@ -506,6 +505,7 @@
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-5",
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-6"
       ],
+      "disabled": true,
       "settings": {
         "product": "two-spice-one-salt",
         "page_width": "medium",
