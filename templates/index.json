@@ -15,7 +15,7 @@
         "text": "",
         "enlarge_text": true,
         "button_label": "SHOP NOW",
-        "button_link": "",
+        "button_link": "shopify:\/\/collections\/shop-all-spices",
         "button_style": "primary",
         "text_alignment": "center center",
         "full_width": true,
