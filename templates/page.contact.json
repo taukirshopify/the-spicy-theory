@@ -28,10 +28,27 @@
         "show_title": true,
         "content_layout": "hidden"
       }
+    },
+    "169641736815a205bd": {
+      "type": "apps",
+      "blocks": {
+        "4df03d4b-638d-4061-aab9-1d218673179a": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "TxEtQS"
+          }
+        }
+      },
+      "block_order": [
+        "4df03d4b-638d-4061-aab9-1d218673179a"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "383adb1e-b577-4c2d-9674-2f9b4e25c357",
-    "main"
+    "main",
+    "169641736815a205bd"
   ]
 }
