@@ -541,12 +541,12 @@
             "image": "shopify:\/\/shop_images\/1_d3d7d206-ceab-4397-9690-b500a12db6c7.jpg",
             "video": "https:\/\/thespicetheory.com\/pages\/easy-adobo-chicken",
             "image_position": "center center",
-            "enlarge_image": false,
+            "enlarge_image": true,
             "subheading": "",
             "title": "",
             "button_label": "",
             "link": "",
-            "text_alignment": "center center"
+            "text_alignment": "bottom center"
           }
         },
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-1": {
@@ -555,7 +555,7 @@
             "image": "shopify:\/\/shop_images\/Mango_pineapple_margarita.jpg",
             "video": "",
             "image_position": "center center",
-            "enlarge_image": false,
+            "enlarge_image": true,
             "subheading": "",
             "title": "",
             "button_label": "",
@@ -569,7 +569,7 @@
             "image": "shopify:\/\/shop_images\/3.jpg",
             "video": "",
             "image_position": "center center",
-            "enlarge_image": false,
+            "enlarge_image": true,
             "subheading": "",
             "title": "",
             "button_label": "",
