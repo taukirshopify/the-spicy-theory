@@ -162,6 +162,7 @@
         "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-5",
         "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-6"
       ],
+      "disabled": true,
       "settings": {
         "product": "spice-box-gift-box-with-olive-oil",
         "page_width": "medium",
@@ -461,6 +462,60 @@
         "autoplay_speed": 7
       }
     },
+    "b6d6f452-31c8-4657-82e0-91c2d24d19a9": {
+      "type": "gallery",
+      "blocks": {
+        "template--16071583334573__b6d6f452-31c8-4657-82e0-91c2d24d19a9-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TST_Box_1.jpg",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--16071583334573__b6d6f452-31c8-4657-82e0-91c2d24d19a9-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TST_Box_4.png",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16071583334573__b6d6f452-31c8-4657-82e0-91c2d24d19a9-image-1",
+        "template--16071583334573__b6d6f452-31c8-4657-82e0-91c2d24d19a9-image-2"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 300,
+        "mobile_image_height": 400,
+        "sub_title_size": 20,
+        "title_size": 26,
+        "button_style": "primary",
+        "enable_margin": true,
+        "enable_carousel": true,
+        "image_overlay_style": "standard",
+        "alternate_bg_color": false,
+        "caption_show": true,
+        "caption_color": "#464654",
+        "caption_bg": "#ffffff",
+        "caption_opacity": 100
+      }
+    },
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52": {
       "type": "featured-product",
       "blocks": {
@@ -653,6 +708,7 @@
     "58f6bd34-e607-455c-a211-e7fb5226c4a4",
     "4f5b1015-7efd-495c-8c2f-fc27d4c94ebb",
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba",
+    "b6d6f452-31c8-4657-82e0-91c2d24d19a9",
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52",
     "de0a8668-c6f1-476b-a453-6276da816b0b",
     "1590158040284",
