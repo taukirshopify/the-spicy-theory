@@ -541,14 +541,14 @@
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_d3d7d206-ceab-4397-9690-b500a12db6c7.jpg",
+            "image": "shopify:\/\/shop_images\/adobo_chicken_and_sheet_pan_vegetables.jpg",
             "video": "https:\/\/thespicetheory.com\/pages\/easy-adobo-chicken",
             "image_position": "center center",
             "enlarge_image": true,
-            "subheading": "",
+            "subheading": "Easy Adobo Chicken & Sheet Pan Vegetables",
             "title": "",
             "button_label": "",
-            "link": "shopify:\/\/pages\/easy-adobo-chicken-and-sheet-pan-vegetables",
+            "link": "shopify:\/\/blogs\/recipe\/easy-adobo-chicken-sheet-pan-vegetables",
             "text_alignment": "bottom center"
           }
         },
@@ -557,13 +557,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Mango_pineapple_margarita.jpg",
             "video": "",
-            "image_position": "center center",
+            "image_position": "bottom right",
             "enlarge_image": true,
-            "subheading": "",
+            "subheading": "Smoked Sea Salt Mango Pineapple Margarita",
             "title": "",
             "button_label": "",
-            "link": "shopify:\/\/pages\/smoked-sea-salt-mango-pineapple-margarita",
-            "text_alignment": "center center"
+            "link": "shopify:\/\/blogs\/recipe\/smoked-sea-salt-mango-pineapple-margarita",
+            "text_alignment": "bottom center"
           }
         },
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-2": {
@@ -573,11 +573,11 @@
             "video": "",
             "image_position": "center center",
             "enlarge_image": true,
-            "subheading": "",
+            "subheading": "Jerk Chicken Sheet Pan Fajita",
             "title": "",
             "button_label": "",
             "link": "shopify:\/\/blogs\/recipe\/testing-receipe-2",
-            "text_alignment": "center center"
+            "text_alignment": "bottom center"
           }
         }
       },
