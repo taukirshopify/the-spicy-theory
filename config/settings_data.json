@@ -191,7 +191,7 @@
         "type": "popup",
         "settings": {
           "mode": "disabled",
-          "popup_delay_seconds": 8,
+          "popup_delay_seconds": 5,
           "popup_dismiss_for_days": 30,
           "position": "bottom-right",
           "title": "Sign up and save",
