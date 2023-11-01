@@ -549,7 +549,7 @@
             "title": "",
             "button_label": "",
             "link": "shopify:\/\/blogs\/recipe\/easy-adobo-chicken-sheet-pan-vegetables",
-            "text_alignment": "bottom center"
+            "text_alignment": "top center"
           }
         },
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-1": {
@@ -577,7 +577,7 @@
             "title": "",
             "button_label": "",
             "link": "shopify:\/\/blogs\/recipe\/testing-receipe-2",
-            "text_alignment": "bottom center"
+            "text_alignment": "top center"
           }
         }
       },
