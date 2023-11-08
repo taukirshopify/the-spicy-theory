@@ -270,7 +270,7 @@
       "settings": {
         "subheading": "",
         "title": "TST FAVORITES Box\n $58",
-        "text": "<p>Not sure where to start? Our Favorites Box comes our 4 best selling products and recipe cards to get you started in the kitchen!<\/p>",
+        "text": "<p>Not sure where to start? Our <strong>Favorites Box<\/strong> comes with four best selling products and recipe cards to get you started in the kitchen!<\/p>",
         "button_label": "BUY NOW",
         "button_link": "shopify:\/\/products\/two-spice-one-salt",
         "button_style": "secondary",
