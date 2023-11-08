@@ -38,6 +38,28 @@
         "alternate_bg_color": false
       }
     },
+    "a4b6affc-1449-4495-82f0-4e4371cb638e": {
+      "type": "rich-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Chef-Approved Vegan Caribbean Spice Blends",
+        "title_size": 40,
+        "heading_h1": true,
+        "text": "<p>Crafted by a physician of Jamaican heritage, The Spice Theory offers a premium line of<strong> low sodium, vegan spice blends packed with bold Caribbean flavor. <\/strong>Our ready-to-use, all-natural spice blends  and infused oils are ethically sourced from small-holder farms and contain <strong>high-quality,<\/strong> <strong>freshly ground ingredients without any additives, preservatives or MSG<\/strong>. Keep it simple in the kitchen with a healthier approach to cooking authentic Caribbean-inspired cuisine.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "#ffffff",
+        "alternate_bg_color": false
+      }
+    },
     "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
       "type": "text-columns-with-images",
       "blocks": {
@@ -47,7 +69,7 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
             "video": "",
-            "image_width": 180,
+            "image_width": 150,
             "title": "",
             "text": "",
             "button_label": "",
@@ -60,7 +82,7 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
             "video": "",
-            "image_width": 180,
+            "image_width": 150,
             "title": "",
             "text": "",
             "button_label": "",
@@ -73,7 +95,7 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
             "video": "",
-            "image_width": 180,
+            "image_width": 150,
             "title": "",
             "text": "",
             "button_label": "",
@@ -94,28 +116,6 @@
         "text_alignment": "center",
         "button_style": "primary",
         "media_shape": "natural",
-        "alternate_bg_color": false
-      }
-    },
-    "a4b6affc-1449-4495-82f0-4e4371cb638e": {
-      "type": "rich-text",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "subheading": "",
-        "title": "Chef-Approved Vegan Caribbean Spice Blends",
-        "title_size": 40,
-        "heading_h1": true,
-        "text": "<p>Crafted by a physician of Jamaican heritage, The Spice Theory offers a premium line of<strong> low sodium, vegan spice blends packed with bold Caribbean flavor. <\/strong>Our ready-to-use, all-natural spice blends  and infused oils are ethically sourced from small-holder farms and contain <strong>high-quality,<\/strong> <strong>freshly ground ingredients without any additives, preservatives or MSG<\/strong>. Keep it simple in the kitchen with a healthier approach to cooking authentic Caribbean-inspired cuisine.<\/p>",
-        "enlarge_text": false,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": true,
-        "no_padding": true,
-        "color_bg": "#ffffff",
         "alternate_bg_color": false
       }
     },
@@ -538,8 +538,8 @@
   "order": [
     "feebce35-2433-4981-8a19-c0aa5ce10671",
     "5c327736-5765-45a2-a17f-3652f5e6631d",
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "1590158040284",
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c",
     "b1006ee8-2aa7-46e5-8499-0b7c39c8636b",
