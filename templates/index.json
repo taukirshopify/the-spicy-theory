@@ -38,6 +38,65 @@
         "alternate_bg_color": false
       }
     },
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "6ab32f84-69ef-47aa-a677-7555e862037e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "970db950-1ae1-4557-8b3a-2dc0849f4846": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6ab32f84-69ef-47aa-a677-7555e862037e",
+        "970db950-1ae1-4557-8b3a-2dc0849f4846",
+        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873"
+      ],
+      "custom_css": [
+        ".text-column {margin: 0 0 0px 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false
+      }
+    },
     "a4b6affc-1449-4495-82f0-4e4371cb638e": {
       "type": "rich-text",
       "custom_css": [
@@ -70,7 +129,7 @@
         "button_link": "shopify:\/\/pages\/meet-dr-corrie",
         "button_style": "primary",
         "text_alignment": "left",
-        "text_width": 45,
+        "text_width": 40,
         "image": "shopify:\/\/shop_images\/Screen_Shot_2023-09-17_at_10.51.16_PM.png",
         "video": "https:\/\/youtu.be\/yNXAo0lkVjk",
         "image_width": 65,
@@ -387,65 +446,6 @@
         "mobile_slideshow_navigation": "arrows"
       }
     },
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
-      "type": "text-columns-with-images",
-      "blocks": {
-        "6ab32f84-69ef-47aa-a677-7555e862037e": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "970db950-1ae1-4557-8b3a-2dc0849f4846": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "6ab32f84-69ef-47aa-a677-7555e862037e",
-        "970db950-1ae1-4557-8b3a-2dc0849f4846",
-        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873"
-      ],
-      "custom_css": [
-        ".text-column {margin: 0 0 0px 0;}"
-      ],
-      "settings": {
-        "title": "",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "media_shape": "natural",
-        "alternate_bg_color": false
-      }
-    },
     "de0a8668-c6f1-476b-a453-6276da816b0b": {
       "type": "gallery",
       "blocks": {
@@ -538,6 +538,7 @@
   "order": [
     "feebce35-2433-4981-8a19-c0aa5ce10671",
     "5c327736-5765-45a2-a17f-3652f5e6631d",
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
     "1590158040284",
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c",
@@ -546,7 +547,6 @@
     "50d2a09e-9209-4a08-8f0e-448be4ebe55f",
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba",
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52",
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "de0a8668-c6f1-476b-a453-6276da816b0b",
     "eadde674-a7bf-492f-9e7c-5ad05df623e0"
   ]
