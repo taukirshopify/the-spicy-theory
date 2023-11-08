@@ -446,6 +446,16 @@
         "mobile_slideshow_navigation": "arrows"
       }
     },
+    "5d476e0e-f92f-4e46-b5ff-cf5b9b57eede": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "healthy, flavorful thanksgiving recipes",
+        "blog": "recipe",
+        "crop_ratio": "1-1",
+        "show_author": false,
+        "show_view_all": true
+      }
+    },
     "de0a8668-c6f1-476b-a453-6276da816b0b": {
       "type": "gallery",
       "blocks": {
@@ -497,6 +507,7 @@
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-1",
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "HEALTHY Flavorful Thanksgiving Recipes",
         "grid": 3,
@@ -547,6 +558,7 @@
     "50d2a09e-9209-4a08-8f0e-448be4ebe55f",
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba",
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52",
+    "5d476e0e-f92f-4e46-b5ff-cf5b9b57eede",
     "de0a8668-c6f1-476b-a453-6276da816b0b",
     "eadde674-a7bf-492f-9e7c-5ad05df623e0"
   ]
