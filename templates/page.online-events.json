@@ -11,15 +11,15 @@
     "1696442524b574a83c": {
       "type": "apps",
       "blocks": {
-        "3f601585-a799-4f17-b7a2-35bdad0cefbf": {
+        "d92cda6f-4062-4296-9c05-5362a67d36c5": {
           "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "formId": "<div class=\"klaviyo-form-TxEtQS\"><\/div>"
+            "formId": "<div class=\"klaviyo-form-RcSiQx\"><\/div>"
           }
         }
       },
       "block_order": [
-        "3f601585-a799-4f17-b7a2-35bdad0cefbf"
+        "d92cda6f-4062-4296-9c05-5362a67d36c5"
       ],
       "settings": {
       }
