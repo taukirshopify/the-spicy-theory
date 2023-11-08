@@ -44,7 +44,7 @@
     "type_logo_font": "gill_sans_nova_n4",
     "font_size_body_int": 15,
     "font_size_nav_int": 17,
-    "font_size_heading_int": 25,
+    "font_size_heading_int": 30,
     "btn_shape": "slightly_rounded",
     "prod_thumb_shape": "1",
     "prod_thumb_gutter": "20",
@@ -228,7 +228,7 @@
         "settings": {
           "heading": "become a tst vip!",
           "title_size": 40,
-          "subtext": "<p><strong>Delicious offers, recipes, and exclusive product updates delivered to your inbox.<\/strong><\/p>",
+          "subtext": "<p><strong>NO SPAM - JUST DELICIOUS RECIPES, OFFERS, AND PRODUCT UPDATES DELIVERED TO YOUR INBOX WEEKLY.<\/strong><\/p>",
           "color_bg": "#ffffff",
           "alternate_bg_color": false,
           "full_width": false
