@@ -228,7 +228,7 @@
         "settings": {
           "heading": "become a tst vip!",
           "title_size": 40,
-          "subtext": "<p><strong>NO SPAM - JUST DELICIOUS RECIPES, OFFERS, AND PRODUCT UPDATES DELIVERED TO YOUR INBOX WEEKLY.<\/strong><\/p>",
+          "subtext": "<p><strong>NO SPAM - JUST DELICIOUS RECIPES, OFFERS, AND PRODUCT UPDATES DELIVERED TO YOUR INBOX<\/strong><\/p>",
           "color_bg": "#ffffff",
           "alternate_bg_color": false,
           "full_width": false
