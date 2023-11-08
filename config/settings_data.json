@@ -124,7 +124,7 @@
           "social_links_mob": true,
           "logo": "{{ shop.brand.logo }}",
           "logo_width": 80,
-          "mobile_logo_width": 80,
+          "mobile_logo_width": 60,
           "logo_location": "toolbar",
           "header_layout": "left",
           "menu_linklist": "main-menu",
