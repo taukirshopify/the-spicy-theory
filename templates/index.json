@@ -24,14 +24,28 @@
         "image_overlay_style": "standard"
       }
     },
+    "5c327736-5765-45a2-a17f-3652f5e6631d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Our Bundle Deals",
+        "collection": "bundle-deals",
+        "layout": "carousel",
+        "products_per_row": 4,
+        "mobile_products_per_row": "2",
+        "row_count_int": 1,
+        "grid_show_vendor": false,
+        "show_view_all": true,
+        "alternate_bg_color": false
+      }
+    },
     "a4b6affc-1449-4495-82f0-4e4371cb638e": {
       "type": "rich-text",
       "settings": {
         "subheading": "",
-        "title": "SMALL BATCH, HANDCRAFTED SPICE BLENDS",
+        "title": "Chef-Approved Vegan Caribbean Spice Blends",
         "title_size": 40,
-        "heading_h1": false,
-        "text": "<p>The Spice Theory is a handcrafted small batch spice blends company that specializes in cooking healthy flavorful Caribbean cuisine! We offer a premium line of<strong> low sodium spice blends with unique flavor profiles <\/strong>that address the cultural needs of young Caribbean people. Our artisan spice blends are <strong>crafted by a physician of Jamaican heritage<\/strong>, and sourced from <strong>all-natural freshly ground ingredients without any additives, preservatives or MSG<\/strong>. They are gluten-free, dairy free and vegan friendly too! Our ready-to-use spice blends make home cooking reminiscent of your childhood, but uncomplicated! Life is busy, so keep it simple in the kitchen with a healthier approach to cooking authentic Caribbean-inspired cuisine.<\/p>",
+        "heading_h1": true,
+        "text": "<p>Crafted by a physician of Jamaican heritage, The Spice Theory offers a premium line of<strong> low sodium, vegan spice blends packed with bold Caribbean flavor. <\/strong>Our ready-to-use, all-natural spice blends  and infused oils are ethically sourced from small-holder farms and contain <strong>high-quality,<\/strong> <strong>freshly ground ingredients without any additives, preservatives or MSG<\/strong>. Keep it simple in the kitchen with a healthier approach to cooking authentic Caribbean-inspired cuisine.<\/p>",
         "enlarge_text": false,
         "button_label": "",
         "button_link": "",
@@ -40,6 +54,65 @@
         "full_width": true,
         "no_padding": false,
         "color_bg": "#ffffff",
+        "alternate_bg_color": false
+      }
+    },
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "6ab32f84-69ef-47aa-a677-7555e862037e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "970db950-1ae1-4557-8b3a-2dc0849f4846": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6ab32f84-69ef-47aa-a677-7555e862037e",
+        "970db950-1ae1-4557-8b3a-2dc0849f4846",
+        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873"
+      ],
+      "custom_css": [
+        ".text-column {margin: 0 0 40px 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
         "alternate_bg_color": false
       }
     },
@@ -172,79 +245,6 @@
         "enable_video_looping": false,
         "enable_product_image_zoom": false,
         "mobile_slideshow_navigation": "dots"
-      }
-    },
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
-      "type": "text-columns-with-images",
-      "blocks": {
-        "6ab32f84-69ef-47aa-a677-7555e862037e": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "970db950-1ae1-4557-8b3a-2dc0849f4846": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "6ab32f84-69ef-47aa-a677-7555e862037e",
-        "970db950-1ae1-4557-8b3a-2dc0849f4846",
-        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873"
-      ],
-      "custom_css": [
-        ".text-column {margin: 0 0 40px 0;}"
-      ],
-      "settings": {
-        "title": "",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "media_shape": "natural",
-        "alternate_bg_color": false
-      }
-    },
-    "5c327736-5765-45a2-a17f-3652f5e6631d": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "shop-all-spices",
-        "layout": "carousel_on_mobile",
-        "products_per_row": 4,
-        "mobile_products_per_row": "2",
-        "row_count_int": 1,
-        "grid_show_vendor": false,
-        "show_view_all": true,
-        "alternate_bg_color": false
       }
     },
     "50d2a09e-9209-4a08-8f0e-448be4ebe55f": {
@@ -645,12 +645,12 @@
   },
   "order": [
     "feebce35-2433-4981-8a19-c0aa5ce10671",
+    "5c327736-5765-45a2-a17f-3652f5e6631d",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "bc0163b0-c0ba-4ae7-884d-fb90d39811d9",
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c",
     "4f831e9c-a9ed-462b-8b8c-87f784354a6e",
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
-    "5c327736-5765-45a2-a17f-3652f5e6631d",
     "50d2a09e-9209-4a08-8f0e-448be4ebe55f",
     "b1006ee8-2aa7-46e5-8499-0b7c39c8636b",
     "58f6bd34-e607-455c-a211-e7fb5226c4a4",
