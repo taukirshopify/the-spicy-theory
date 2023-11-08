@@ -120,7 +120,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "sticky_header": false,
+          "sticky_header": true,
           "social_links_mob": true,
           "logo": "{{ shop.brand.logo }}",
           "logo_width": 80,
