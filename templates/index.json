@@ -60,6 +60,25 @@
         "alternate_bg_color": false
       }
     },
+    "1590158040284": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "",
+        "title": "MEET DR. CORRIE",
+        "text": "<p>Hello! I'm Dr. Corrie Amos, a board-certified anesthesiologist, culinary enthusiast, and health & wellness advocate. <strong>The Spice Theory<\/strong> is the brainchild of my forged love of good food and my passion for science! Let me tell you a little bit about me!<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/meet-dr-corrie",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "text_width": 54,
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-09-17_at_10.51.16_PM.png",
+        "video": "https:\/\/youtu.be\/yNXAo0lkVjk",
+        "image_width": 80,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false
+      }
+    },
     "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
       "type": "text-columns-with-images",
       "blocks": {
@@ -116,25 +135,6 @@
         "text_alignment": "center",
         "button_style": "primary",
         "media_shape": "natural",
-        "alternate_bg_color": false
-      }
-    },
-    "1590158040284": {
-      "type": "image-with-text",
-      "settings": {
-        "subheading": "",
-        "title": "MEET DR. CORRIE",
-        "text": "<p>Hello! I'm Dr. Corrie Amos, a board-certified anesthesiologist, culinary enthusiast, and health & wellness advocate. <strong>The Spice Theory<\/strong> is the brainchild of my forged love of good food and my passion for science! Let me tell you a little bit about me!<\/p><p><\/p>",
-        "button_label": "Learn More",
-        "button_link": "shopify:\/\/pages\/meet-dr-corrie",
-        "button_style": "primary",
-        "text_alignment": "left",
-        "text_width": 54,
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-09-17_at_10.51.16_PM.png",
-        "video": "https:\/\/youtu.be\/yNXAo0lkVjk",
-        "image_width": 80,
-        "image_position": "right",
-        "media_size": "contain",
         "alternate_bg_color": false
       }
     },
@@ -550,8 +550,8 @@
     "feebce35-2433-4981-8a19-c0aa5ce10671",
     "5c327736-5765-45a2-a17f-3652f5e6631d",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "1590158040284",
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c",
     "b1006ee8-2aa7-46e5-8499-0b7c39c8636b",
     "58f6bd34-e607-455c-a211-e7fb5226c4a4",
