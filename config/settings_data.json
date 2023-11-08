@@ -226,9 +226,9 @@
       "newsletter": {
         "type": "newsletter",
         "settings": {
-          "heading": "Subscribe to our newsletter",
+          "heading": "become a tst vip!",
           "title_size": 40,
-          "subtext": "<p>Deals, new products, and promotions straight to your email.<\/p>",
+          "subtext": "<p><strong>Delicious offers, recipes, and exclusive product updates delivered to your inbox.<\/strong><\/p>",
           "color_bg": "#ffffff",
           "alternate_bg_color": false,
           "full_width": false

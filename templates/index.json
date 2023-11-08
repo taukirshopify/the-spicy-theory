@@ -40,6 +40,9 @@
     },
     "a4b6affc-1449-4495-82f0-4e4371cb638e": {
       "type": "rich-text",
+      "custom_css": [
+
+      ],
       "settings": {
         "subheading": "",
         "title": "Chef-Approved Vegan Caribbean Spice Blends",
@@ -52,85 +55,28 @@
         "button_style": "primary",
         "text_alignment": "center",
         "full_width": true,
-        "no_padding": false,
+        "no_padding": true,
         "color_bg": "#ffffff",
         "alternate_bg_color": false
       }
     },
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
-      "type": "text-columns-with-images",
-      "blocks": {
-        "6ab32f84-69ef-47aa-a677-7555e862037e": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "970db950-1ae1-4557-8b3a-2dc0849f4846": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
-            "video": "",
-            "image_width": 180,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "6ab32f84-69ef-47aa-a677-7555e862037e",
-        "970db950-1ae1-4557-8b3a-2dc0849f4846",
-        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873"
-      ],
-      "custom_css": [
-        ".text-column {margin: 0 0 40px 0;}"
-      ],
+    "1590158040284": {
+      "type": "image-with-text",
       "settings": {
-        "title": "",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "media_shape": "natural",
-        "alternate_bg_color": false
-      }
-    },
-    "bc0163b0-c0ba-4ae7-884d-fb90d39811d9": {
-      "type": "video",
-      "settings": {
-        "video": "https:\/\/youtu.be\/yNXAo0lkVjk",
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-09-17_at_10.51.16_PM.png",
-        "image_position": "center center",
         "subheading": "",
-        "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "text_alignment": "center center",
-        "full_width": false,
-        "image_overlay_style": "standard"
+        "title": "MEET DR. CORRIE",
+        "text": "<p>Hello! I'm Dr. Corrie Amos, a board-certified anesthesiologist, culinary enthusiast, and health & wellness advocate. <strong>The Spice Theory<\/strong> is the brainchild of my forged love of good food and my passion for science! Let me tell you a little bit about me!<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/meet-dr-corrie",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "text_width": 45,
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-09-17_at_10.51.16_PM.png",
+        "video": "https:\/\/youtu.be\/yNXAo0lkVjk",
+        "image_width": 65,
+        "image_position": "right",
+        "media_size": "contain",
+        "alternate_bg_color": false
       }
     },
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c": {
@@ -168,101 +114,12 @@
         "template--16057255526573__ce580092-d58c-40b3-be5e-8d0f3bf2800c-16791508953283de61-3"
       ],
       "settings": {
-        "heading": "",
-        "layout": "carousel",
+        "heading": "Everything you need to make your thanksgiving feast a success!",
+        "layout": "carousel_on_mobile",
         "collections_per_row": 4,
         "mobile_collections_per_row": "2",
         "collection_use_prod_image": false,
         "show_view_all": false,
-        "alternate_bg_color": true
-      }
-    },
-    "4f831e9c-a9ed-462b-8b8c-87f784354a6e": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-0": {
-          "type": "vendor_and_type",
-          "settings": {
-            "prod_show_brand": true,
-            "prod_show_type": true
-          }
-        },
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-2": {
-          "type": "price",
-          "settings": {
-            "show_tax_and_shipping": false
-          }
-        },
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-3": {
-          "type": "rating",
-          "settings": {
-          }
-        },
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-4": {
-          "type": "variant_picker",
-          "settings": {
-            "prod_clicky_opt_names": "",
-            "stock_warning_show": false,
-            "stock_warning_limit": 5
-          }
-        },
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "enable_payment_button": false,
-            "show_pickup_availability": true,
-            "show_backorder_text": true
-          }
-        },
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-6": {
-          "type": "description",
-          "settings": {
-            "display": "standard"
-          }
-        }
-      },
-      "block_order": [
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-0",
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-1",
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-2",
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-3",
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-4",
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-5",
-        "template--16071583334573__4f831e9c-a9ed-462b-8b8c-87f784354a6e-1685037192a56cf51d-6"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "product": "tst-signature-spice-box",
-        "page_width": "medium",
-        "prod_show_thumbnails": true,
-        "enable_video_looping": false,
-        "enable_product_image_zoom": false,
-        "mobile_slideshow_navigation": "dots"
-      }
-    },
-    "50d2a09e-9209-4a08-8f0e-448be4ebe55f": {
-      "type": "image-with-text",
-      "settings": {
-        "subheading": "",
-        "title": "TWO SPICE, ONE SALT",
-        "text": "<p>Craft your own TST experience with our all-natural handcrafted spice blends and premium smoked sea salts.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/two-spice-one-salt",
-        "button_style": "secondary",
-        "text_alignment": "center",
-        "text_width": 40,
-        "image": "shopify:\/\/shop_images\/Product_with_shadow_and_smook.png",
-        "video": "",
-        "image_width": 100,
-        "image_position": "left",
-        "media_size": "cover",
         "alternate_bg_color": true
       }
     },
@@ -349,28 +206,23 @@
         "mobile_slideshow_navigation": "arrows"
       }
     },
-    "4f5b1015-7efd-495c-8c2f-fc27d4c94ebb": {
-      "type": "background-video",
-      "custom_css": [
-        "h2 {color: #ffffff;}"
-      ],
+    "50d2a09e-9209-4a08-8f0e-448be4ebe55f": {
+      "type": "image-with-text",
       "settings": {
-        "video": "",
-        "placeholder_image": "shopify:\/\/shop_images\/1.jpg",
         "subheading": "",
-        "title": "HERBS AND SPICE, ALWAYS FRESH",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "",
-        "enlarge_text": true,
+        "title": "TWO SPICE, ONE SALT",
+        "text": "<p>Craft your own TST experience with our all-natural handcrafted spice blends and premium smoked sea salts.<\/p>",
         "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/shop-all-spices",
-        "button_style": "primary",
-        "text_alignment": "center center",
-        "full_width": true,
-        "height_desktop": 600,
-        "height_mobile": 500,
-        "image_overlay_style": "none"
+        "button_link": "shopify:\/\/products\/two-spice-one-salt",
+        "button_style": "secondary",
+        "text_alignment": "center",
+        "text_width": 40,
+        "image": "shopify:\/\/shop_images\/Product_with_shadow_and_smook.png",
+        "video": "",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "cover",
+        "alternate_bg_color": true
       }
     },
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba": {
@@ -535,6 +387,65 @@
         "mobile_slideshow_navigation": "arrows"
       }
     },
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "6ab32f84-69ef-47aa-a677-7555e862037e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "970db950-1ae1-4557-8b3a-2dc0849f4846": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
+            "video": "",
+            "image_width": 180,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6ab32f84-69ef-47aa-a677-7555e862037e",
+        "970db950-1ae1-4557-8b3a-2dc0849f4846",
+        "f2b5c6e8-c41c-4b8d-874e-586b9a7f2873"
+      ],
+      "custom_css": [
+        ".text-column {margin: 0 0 0px 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false
+      }
+    },
     "de0a8668-c6f1-476b-a453-6276da816b0b": {
       "type": "gallery",
       "blocks": {
@@ -587,7 +498,7 @@
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-2"
       ],
       "settings": {
-        "title": "",
+        "title": "HEALTHY Flavorful Thanksgiving Recipes",
         "grid": 3,
         "desktop_image_height": 300,
         "mobile_image_height": 400,
@@ -597,38 +508,19 @@
         "enable_margin": true,
         "enable_carousel": true,
         "image_overlay_style": "none",
-        "alternate_bg_color": true,
+        "alternate_bg_color": false,
         "caption_show": true,
-        "caption_color": "#464654",
+        "caption_color": "#2c2528",
         "caption_bg": "#ffffff",
-        "caption_opacity": 100
-      }
-    },
-    "1590158040284": {
-      "type": "image-with-text",
-      "settings": {
-        "subheading": "",
-        "title": "MEET DR. CORRIE",
-        "text": "<p>Hello! I'm Dr. Corrie Amos, a board-certified anesthesiologist, culinary enthusiast, and health & wellness advocate. <strong>The Spice Theory<\/strong> is the brainchild of my forged love of good food and my passion for science! Let me tell you a little bit about me!<\/p><p><\/p>",
-        "button_label": "READ MORE",
-        "button_link": "shopify:\/\/pages\/meet-dr-corrie",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "text_width": 40,
-        "image": "shopify:\/\/shop_images\/women_banner.png",
-        "video": "",
-        "image_width": 50,
-        "image_position": "right",
-        "media_size": "contain",
-        "alternate_bg_color": false
+        "caption_opacity": 94
       }
     },
     "eadde674-a7bf-492f-9e7c-5ad05df623e0": {
       "type": "image-with-text",
       "settings": {
-        "subheading": "Local Store You Can Find Us",
+        "subheading": "Can't wait? Shop With Us In store",
         "title": "Prince Abou's Butchery",
-        "text": "<p>32-88 Steinway Street - Astoria, NY 11103<\/p><p>347-813-4335<\/p>",
+        "text": "<p>32-88 Steinway Street - Astoria, NY 11103<\/p><p>Phone: 347-813-4335<\/p>",
         "button_label": "VISIT US",
         "button_link": "https:\/\/www.princeabousbutchery.com\/",
         "button_style": "secondary",
@@ -647,18 +539,15 @@
     "feebce35-2433-4981-8a19-c0aa5ce10671",
     "5c327736-5765-45a2-a17f-3652f5e6631d",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
-    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
-    "bc0163b0-c0ba-4ae7-884d-fb90d39811d9",
+    "1590158040284",
     "ce580092-d58c-40b3-be5e-8d0f3bf2800c",
-    "4f831e9c-a9ed-462b-8b8c-87f784354a6e",
-    "50d2a09e-9209-4a08-8f0e-448be4ebe55f",
     "b1006ee8-2aa7-46e5-8499-0b7c39c8636b",
     "58f6bd34-e607-455c-a211-e7fb5226c4a4",
-    "4f5b1015-7efd-495c-8c2f-fc27d4c94ebb",
+    "50d2a09e-9209-4a08-8f0e-448be4ebe55f",
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba",
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52",
+    "e862ecc4-6eec-4f50-acf9-ee2f97c9713e",
     "de0a8668-c6f1-476b-a453-6276da816b0b",
-    "1590158040284",
     "eadde674-a7bf-492f-9e7c-5ad05df623e0"
   ]
 }
