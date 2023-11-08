@@ -123,7 +123,7 @@
           "sticky_header": false,
           "social_links_mob": true,
           "logo": "{{ shop.brand.logo }}",
-          "logo_width": 85,
+          "logo_width": 80,
           "mobile_logo_width": 80,
           "logo_location": "toolbar",
           "header_layout": "left",
@@ -133,9 +133,9 @@
           "nav_col_limit_int": 8,
           "nav_featured_link": "Sale",
           "cart_icon": "cart",
-          "search_bar": "input",
-          "search_text_box_large": false,
-          "search_type_dropdown": true
+          "search_bar": "input_desktop",
+          "search_text_box_large": true,
+          "search_type_dropdown": false
         }
       },
       "footer": {
