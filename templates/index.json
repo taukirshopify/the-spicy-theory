@@ -27,7 +27,7 @@
     "5c327736-5765-45a2-a17f-3652f5e6631d": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Our Bundle Deals",
+        "title": "Shop Bundle Deals",
         "collection": "bundle-deals",
         "layout": "carousel",
         "products_per_row": 4,
