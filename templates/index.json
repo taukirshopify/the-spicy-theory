@@ -528,6 +528,7 @@
     },
     "eadde674-a7bf-492f-9e7c-5ad05df623e0": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "subheading": "Can't wait? Shop In store",
         "title": "Prince Abou's Butchery",
