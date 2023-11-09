@@ -273,7 +273,7 @@
         "title": "GET STARTED WITH THE <strong>TST FAVORITES Box<\/strong>\n $58",
         "text": "<p>Not sure where to start? Our Favorites Box comes with <strong>four best selling products and recipe cards<\/strong> to get you started in the kitchen!<\/p>",
         "button_label": "BUY NOW",
-        "button_link": "shopify:\/\/products\/two-spice-one-salt",
+        "button_link": "https:\/\/thespicetheory.com\/products\/tst-favorites-box",
         "button_style": "secondary",
         "text_alignment": "center",
         "text_width": 40,
