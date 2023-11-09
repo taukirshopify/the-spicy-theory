@@ -186,7 +186,7 @@
     "b1006ee8-2aa7-46e5-8499-0b7c39c8636b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop All Products",
+        "title": "Shop Customer Faves",
         "collection": "best-sellers",
         "layout": "carousel",
         "products_per_row": 4,
