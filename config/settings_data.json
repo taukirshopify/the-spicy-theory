@@ -183,7 +183,7 @@
           "cart_summary_image": "shopify:\/\/shop_images\/TST_Spice_Bundle_Deals.png",
           "cart_summary_use_tint": true,
           "cart_summary_image_url": "shopify:\/\/collections\/bundle-deals",
-          "cart_summary_image_heading": "<strong>Save 30% OFF All Bundle Deals<\/strong>",
+          "cart_summary_image_heading": "Save 30% OFF All Bundle Deals",
           "cart_summary_image_subheading": "Shop Now"
         }
       },
