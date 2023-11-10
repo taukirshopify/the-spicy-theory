@@ -176,15 +176,15 @@
           "checkout_goes_to_cart": true,
           "cart_terms_page": "",
           "promo_products_show": true,
-          "promo_products_heading": "You might like",
-          "promo_products_product_1": "fern-gully",
-          "promo_products_product_2": "welcome-to-jamrock",
+          "promo_products_heading": "You'll Love",
+          "promo_products_product_1": "old-fashioned",
+          "promo_products_product_2": "natural-mystic-adobo-blend",
           "cart_summary_image_show": true,
-          "cart_summary_image": "shopify:\/\/shop_images\/banner.png",
+          "cart_summary_image": "shopify:\/\/shop_images\/TST_Spice_Bundle_Deals.png",
           "cart_summary_use_tint": true,
-          "cart_summary_image_url": "",
-          "cart_summary_image_heading": "Promotion",
-          "cart_summary_image_subheading": "Read more"
+          "cart_summary_image_url": "shopify:\/\/collections\/bundle-deals",
+          "cart_summary_image_heading": "PROMO: Save 30% OFF All Bundle Deals",
+          "cart_summary_image_subheading": "Shop Now"
         }
       },
       "popup": {
