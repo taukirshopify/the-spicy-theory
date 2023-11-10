@@ -176,14 +176,14 @@
           "checkout_goes_to_cart": true,
           "cart_terms_page": "",
           "promo_products_show": true,
-          "promo_products_heading": "You'll Love",
+          "promo_products_heading": "You'll Also Love",
           "promo_products_product_1": "old-fashioned",
           "promo_products_product_2": "natural-mystic-adobo-blend",
           "cart_summary_image_show": true,
           "cart_summary_image": "shopify:\/\/shop_images\/TST_Spice_Bundle_Deals.png",
-          "cart_summary_use_tint": true,
+          "cart_summary_use_tint": false,
           "cart_summary_image_url": "shopify:\/\/collections\/bundle-deals",
-          "cart_summary_image_heading": "PROMO: Save 30% OFF All Bundle Deals",
+          "cart_summary_image_heading": "Save 30% OFF All Bundle Deals",
           "cart_summary_image_subheading": "Shop Now"
         }
       },
