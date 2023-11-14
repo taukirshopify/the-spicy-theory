@@ -4,17 +4,17 @@
       "type": "rich-text",
       "settings": {
         "subheading": "",
-        "title": "Wholesale Inquiry",
-        "title_size": 40,
+        "title": "Contact us",
+        "title_size": 56,
         "heading_h1": false,
-        "text": "<p>To request more information about selling our spices in bulk, kindly fill out the form below.<\/p>",
+        "text": "<p><strong>Need help or just want to say hello? Shoot us a message! <br\/>We'll get back to you within 24 hours during normal business hours. <\/strong><\/p>",
         "enlarge_text": true,
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "text_alignment": "center",
-        "full_width": true,
-        "no_padding": false,
+        "full_width": false,
+        "no_padding": true,
         "color_bg": "",
         "alternate_bg_color": false
       }
