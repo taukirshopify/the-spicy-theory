@@ -4,5 +4,10 @@
     "market": "us"
   },
   "sections": {
-  }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "65ae3b46-64a9-4957-8a1e-ddac44dea868"
+  ]
 }
