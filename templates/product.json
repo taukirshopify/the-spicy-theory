@@ -56,13 +56,6 @@
             "spacing_below": "small",
             "show_in_quickbuy": false
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "show_in_quickbuy": false,
-            "display": "standard"
-          }
         }
       },
       "block_order": [
@@ -72,12 +65,11 @@
         "rating",
         "variant_picker",
         "buy_buttons",
-        "divider",
-        "description"
+        "divider"
       ],
       "settings": {
         "page_width": "medium",
-        "description_below": false,
+        "description_below": true,
         "show_reviews": false,
         "enable_video_looping": true,
         "enable_product_image_zoom": true,
