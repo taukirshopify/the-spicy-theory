@@ -73,7 +73,7 @@
         "show_reviews": false,
         "enable_video_looping": true,
         "enable_product_image_zoom": true,
-        "mobile_slideshow_navigation": "arrows"
+        "mobile_slideshow_navigation": "dots"
       }
     },
     "product-recommendations": {
