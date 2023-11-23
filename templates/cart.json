@@ -11,9 +11,9 @@
         "continue_shopping_page": "",
         "cart_terms_page": "",
         "cart_notification_show": true,
-        "cart_notification_text": "<p>30% OFF ALL BUNDLE DEALS - DISCOUNT AUTOMATICALLY APPLIED<\/p>",
+        "cart_notification_text": "<p>FREE SHIPPING ON ORDERS $60+<\/p>",
         "cart_notification_pos": "",
-        "shipping_calculator": true,
+        "shipping_calculator": false,
         "shipping_calculator_default_country": "United States"
       }
     }
