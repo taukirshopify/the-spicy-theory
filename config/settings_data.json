@@ -184,7 +184,7 @@
           "cart_summary_image": "shopify:\/\/shop_images\/TST_Spice_Bundle_Deals.png",
           "cart_summary_use_tint": true,
           "cart_summary_image_url": "shopify:\/\/collections\/bundle-deals",
-          "cart_summary_image_heading": "FREE SHIPPING ON ORDERS $60+",
+          "cart_summary_image_heading": "<strong>FREE SHIPPING ON ORDERS $60+ <\/strong>",
           "cart_summary_image_subheading": ""
         }
       },
