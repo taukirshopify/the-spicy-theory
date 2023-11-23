@@ -28,7 +28,7 @@
     "5c327736-5765-45a2-a17f-3652f5e6631d": {
       "type": "featured-collection",
       "settings": {
-        "title": "30% off All spice bundles today!",
+        "title": "30% off all products today!",
         "collection": "bundle-deals",
         "layout": "carousel",
         "products_per_row": 4,
@@ -174,7 +174,7 @@
         "template--16057255526573__ce580092-d58c-40b3-be5e-8d0f3bf2800c-16791508953283de61-3"
       ],
       "settings": {
-        "heading": "Everything you need for a holiday feast",
+        "heading": "Everything you need for a Christmas feast",
         "layout": "grid",
         "collections_per_row": 4,
         "mobile_collections_per_row": "2",
@@ -186,7 +186,7 @@
     "b1006ee8-2aa7-46e5-8499-0b7c39c8636b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Customer Faves",
+        "title": "Shop Gifts + Bundle Deals",
         "collection": "customer-faves",
         "layout": "carousel",
         "products_per_row": 4,
@@ -450,7 +450,7 @@
     "5d476e0e-f92f-4e46-b5ff-cf5b9b57eede": {
       "type": "featured-blog",
       "settings": {
-        "title": "Healthy, Flavorful Thanksgiving Recipes",
+        "title": "Healthy, Flavorful Holiday Recipes",
         "blog": "recipe",
         "crop_ratio": "1-1",
         "show_author": false,
