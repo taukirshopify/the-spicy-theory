@@ -205,7 +205,7 @@
         "settings": {
           "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "🔥 BLACK FRIDAY PREVIEW SALE: 30% OFF All Products With Code '",
+          "announcement_text": "🔥 BLACK FRIDAY SALE: 30% OFF All Products With Code <strong>BFCM30<\/strong>",
           "announcement_link": "",
           "show_social_icons": true,
           "show_country_selector": false,
