@@ -77,6 +77,7 @@
     "social_linkedin_url": "https:\/\/www.linkedin.com\/company\/88030592\/admin\/feed\/posts\/",
     "section_padding": "medium",
     "cart_type": "drawer-dynamic",
+    "open_drawer_on_mobile": false,
     "currency_code_enabled": true,
     "cart_currency_code_enabled": true,
     "superscript_decimals": true,
