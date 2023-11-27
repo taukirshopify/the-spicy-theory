@@ -95,25 +95,6 @@
         "custom_liquid": "<style>\n.shopify-cleanslate .DnvZqPMEvBFbBre5UuP9 {\n    background: #123715!important;\n    border-color: #123715 !important;\n    color: #fff !important;\n}\n<\/style>"
       }
     },
-    "dfdeac6f-8c46-46a2-9100-c747ec6582d0": {
-      "type": "image-with-text",
-      "settings": {
-        "subheading": "",
-        "title": "\"FERN GULLY\" GARLIC HERB PEPPER BLEND",
-        "text": "<p>Welcome to The Spice Theory! Our unique, proprietary blend of garlic herb pepper is sure to make a statement in your kitchen. Perfect for both garlic lovers and naysayers alike, this robust blend of<strong>roasted garlic, Aleppo pepper, onion, and herbs<\/strong>is the perfect ingredient to elevate any meal. Whether it be sautéing vegetables, simmering soups, or grilling meats, this blend adds bright, aromatic, and smoky flavor to all of your dishes.<\/p>",
-        "button_label": "ADD TO CART",
-        "button_link": "shopify:\/\/products\/fern-gully",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "text_width": 42,
-        "image": "shopify:\/\/shop_images\/A7409732_1.jpg",
-        "video": "",
-        "image_width": 100,
-        "image_position": "right",
-        "media_size": "contain",
-        "alternate_bg_color": true
-      }
-    },
     "17008221058a945bfe": {
       "type": "apps",
       "blocks": {
@@ -134,7 +115,6 @@
     "main",
     "product-recommendations",
     "65ae3b46-64a9-4957-8a1e-ddac44dea868",
-    "dfdeac6f-8c46-46a2-9100-c747ec6582d0",
     "17008221058a945bfe"
   ]
 }
