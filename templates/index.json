@@ -25,29 +25,10 @@
         "image_overlay_style": "standard"
       }
     },
-    "d5943271-d6f2-4873-b01b-055479d176d9": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "title_size": 16,
-        "heading_h1": false,
-        "text": "<p><strong>FREE SHIPPING ON ALL ORDERS $60+<\/strong><\/p>",
-        "enlarge_text": true,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": true,
-        "no_padding": true,
-        "color_bg": "#32620e",
-        "alternate_bg_color": false
-      }
-    },
     "5c327736-5765-45a2-a17f-3652f5e6631d": {
       "type": "featured-collection",
       "settings": {
-        "title": "30% off all products today!",
+        "title": "30% off all products ends tonight!",
         "collection": "bundle-deals",
         "layout": "carousel",
         "products_per_row": 4,
@@ -569,7 +550,6 @@
   },
   "order": [
     "feebce35-2433-4981-8a19-c0aa5ce10671",
-    "d5943271-d6f2-4873-b01b-055479d176d9",
     "5c327736-5765-45a2-a17f-3652f5e6631d",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
     "1590158040284",
