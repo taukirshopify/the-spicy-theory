@@ -56,6 +56,11 @@
             "spacing_below": "small",
             "show_in_quickbuy": false
           }
+        },
+        "8cd21191-507b-4b4a-8c09-37fac13da810": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -65,7 +70,8 @@
         "price",
         "variant_picker",
         "buy_buttons",
-        "divider"
+        "divider",
+        "8cd21191-507b-4b4a-8c09-37fac13da810"
       ],
       "settings": {
         "page_width": "medium",
