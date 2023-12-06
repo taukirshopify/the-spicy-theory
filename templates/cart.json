@@ -11,7 +11,7 @@
         "continue_shopping_page": "",
         "cart_terms_page": "",
         "cart_notification_show": true,
-        "cart_notification_text": "<p><strong>FREE SHIPPING ON ORDERS $60+<\/strong><\/p>",
+        "cart_notification_text": "<p><strong>FREE SHIPPING ON ORDERS $70+<\/strong><\/p>",
         "cart_notification_pos": "",
         "shipping_calculator": false,
         "shipping_calculator_default_country": "United States"
