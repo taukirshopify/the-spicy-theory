@@ -206,7 +206,7 @@
         "settings": {
           "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "Free shipping $70+ with CODE: FREESHIP at checkout!",
+          "announcement_text": "🛒Free shipping $70+ with CODE: FREESHIP at checkout!",
           "announcement_link": "",
           "show_social_icons": true,
           "show_country_selector": false,
