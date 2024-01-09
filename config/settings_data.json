@@ -206,7 +206,7 @@
         "settings": {
           "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "🎁 20% OFF All Orders With Code HOLIDAY20",
+          "announcement_text": "Free shipping $70+ with CODE: FREESHIP at checkout!",
           "announcement_link": "",
           "show_social_icons": true,
           "show_country_selector": false,
@@ -290,9 +290,9 @@
         "settings": {
           "button_color": "#202a36",
           "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_left",
           "button_vertical_position": "lowest",
-          "button_text": "chat_with_us",
           "greeting_message": "👋 Hello! Please message us if you have questions, or give an idea of what you’re looking for. We’re happy to make recommendations."
         }
       }
