@@ -28,7 +28,7 @@
     "5c327736-5765-45a2-a17f-3652f5e6631d": {
       "type": "featured-collection",
       "settings": {
-        "title": "Gift boxes and Stocking Stuffers",
+        "title": "EXCLUSIVE BUNDLE DEALS",
         "collection": "bundle-deals",
         "layout": "carousel",
         "products_per_row": 4,
@@ -174,7 +174,7 @@
         "template--16057255526573__ce580092-d58c-40b3-be5e-8d0f3bf2800c-16791508953283de61-3"
       ],
       "settings": {
-        "heading": "Everything you need for a Christmas feast",
+        "heading": "Everything you need for the perfect meal",
         "layout": "grid",
         "collections_per_row": 4,
         "mobile_collections_per_row": "2",
@@ -270,7 +270,7 @@
       "type": "image-with-text",
       "settings": {
         "subheading": "",
-        "title": "A Holiday Gift They'll Actually Use",
+        "title": "A Gift They'll Actually Love",
         "text": "<p>Our Limited Edition Spice Theory Favorites Box comes with <strong>four of our best selling products and easy-to-follow recipe cards<\/strong> to get your loved ones started in the kitchen.<\/p>",
         "button_label": "BUY NOW",
         "button_link": "https:\/\/thespicetheory.com\/products\/tst-favorites-box",
@@ -450,7 +450,7 @@
     "5d476e0e-f92f-4e46-b5ff-cf5b9b57eede": {
       "type": "featured-blog",
       "settings": {
-        "title": "Healthy, Flavorful Holiday Recipes",
+        "title": "Healthy, Flavorful Recipes",
         "blog": "recipe",
         "crop_ratio": "1-1",
         "show_author": false,
