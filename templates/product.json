@@ -47,6 +47,18 @@
             "show_backorder_text": true
           }
         },
+        "yanet_back_in_stock_inline_td7wbk": {
+          "type": "shopify:\/\/apps\/yanet-back-in-stock\/blocks\/inline\/4a272ca4-2ae2-4e8b-9da8-8dc6353ba485",
+          "settings": {
+            "text": "",
+            "color": "",
+            "background": "",
+            "inline": false,
+            "custom": false,
+            "font": "assistant_n4",
+            "css": ""
+          }
+        },
         "641079ec-0020-4d0b-b118-ca3f65471e8e": {
           "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "disabled": true,
@@ -71,6 +83,7 @@
         "price",
         "variant_picker",
         "buy_buttons",
+        "yanet_back_in_stock_inline_td7wbk",
         "641079ec-0020-4d0b-b118-ca3f65471e8e",
         "divider"
       ],
