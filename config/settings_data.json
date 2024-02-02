@@ -289,6 +289,40 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "4887604186841085581": {
+        "type": "shopify:\/\/apps\/yanet-back-in-stock\/blocks\/bis\/4a272ca4-2ae2-4e8b-9da8-8dc6353ba485",
+        "disabled": false,
+        "settings": {
+          "product_list": [
+
+          ],
+          "tags": "",
+          "show": false,
+          "inline": true,
+          "index": false,
+          "collection": false,
+          "variant": false,
+          "top": 100,
+          "text": "NOTIFY ME WHEN AVAILABLE",
+          "color": "#ffffff",
+          "background": "#121212",
+          "confirm": false,
+          "title": "NOTIFY ME WHEN AVAILABLE",
+          "info": "We will notify you as soon as this product is available again.",
+          "show_name": true,
+          "name_placeholder": "Name",
+          "email_placeholder": "Email address",
+          "email": "Enter a valid email",
+          "push": true,
+          "push_label": "Send me a push notification",
+          "push_permission": "Permission rejected! Please enable push notifications and try again.",
+          "privacy": "We respect your privacy and don't share your email with anybody.",
+          "success": "Successfully subscribed",
+          "custom": false,
+          "font": "assistant_n4",
+          "css": ""
+        }
       }
     }
   },
