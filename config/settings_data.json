@@ -302,7 +302,7 @@
           "inline": true,
           "index": false,
           "collection": false,
-          "variant": false,
+          "variant": true,
           "top": 100,
           "text": "NOTIFY ME WHEN AVAILABLE",
           "color": "#ffffff",
