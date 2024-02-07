@@ -14,9 +14,9 @@
       "size_chart": "Tableau des tailles",
       "unavailable": "Non disponible",
       "adding_to_cart": "Ajouter",
-      "product_unavailable_html": "<p>Nous sommes en rupture de stock pour cet article.</p>",
+      "product_unavailable_html": "<p>Nous sommes en rupture de stock pour cet article.<\/p>",
       "added_to_cart": "Ajoutée",
-      "unit_price_separator": " / ",
+      "unit_price_separator": " \/ ",
       "added_to_cart_btn": "Ajoutée",
       "go_to_cart": "Aller au panier",
       "backorder": "est en rupture de stock et sera envoyé dès qu'il sera disponible",
@@ -25,7 +25,7 @@
     },
     "general": {
       "include_taxes": "Taxes incluses.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition</a> calculés lors du passage à la caisse.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition<\/a> calculés lors du passage à la caisse.",
       "full_details": "Afficher plus",
       "quick_buy_added": "Ajoutée",
       "from": "De"
@@ -81,9 +81,9 @@
       "continue": "Poursuivre vos achats",
       "quantity_too_high": "Vous ne pouvez en avoir que {{ quantity }} dans votre panier",
       "confirm_remove": "Voulez-vous vraiment supprimer cet élément?",
-      "taxes_included_and_shipping_policy_html": "Taxes incluses. <a href=\"{{ link }}\">Frais de port</a> calculés à la caisse.",
+      "taxes_included_and_shipping_policy_html": "Taxes incluses. <a href=\"{{ link }}\">Frais de port<\/a> calculés à la caisse.",
       "taxes_included_but_shipping_at_checkout": "Taxes incluses et frais de port calculés à la caisse",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes et <a href=\"{{ link }}\">frais de port</a> calculés à la caisse",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes et <a href=\"{{ link }}\">frais de port<\/a> calculés à la caisse",
       "taxes_and_shipping_at_checkout": "Taxes et frais de port calculés à la caisse",
       "remove": "Retirer",
       "empty_title": "Votre panier est vide",
@@ -93,7 +93,7 @@
       "backorder": "Le produit est en rupture de stock et sera envoyé dès qu'il sera disponible"
     },
     "terms": {
-      "agreement_html": "J'accepte les <a href=\"{{ terms_url }}\" target=\"_blank\">termes et la politique de remboursement</a>"
+      "agreement_html": "J'accepte les <a href=\"{{ terms_url }}\" target=\"_blank\">termes et la politique de remboursement<\/a>"
     }
   },
   "homepage": {
@@ -196,7 +196,7 @@
     "errors": {
       "address_error": "Vous ne trouvez pas cette adresse",
       "address_no_results": "Aucun résultat pour cette adresse",
-      "address_query_limit_html": "Vous avez dépassé la limite de Google utilisation de l'API. Envisager la mise à niveau à un <a href=\"https://developers.google.com/maps/premium/usage-limits\">régime spécial</a>.",
+      "address_query_limit_html": "Vous avez dépassé la limite de Google utilisation de l'API. Envisager la mise à niveau à un <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">régime spécial<\/a>.",
       "auth_error": "Il y avait un problème authentifier votre compte Google Maps."
     }
   },
@@ -420,7 +420,7 @@
       "link": "Accéder à la boutique à l'aide d'un mot de passe",
       "label": "Accéder à la boutique à l'aide d'un mot de passe:",
       "button": "Soumettre",
-      "admin_link_html": "Êtes-vous le propriétaire de la boutique? <a href=\"/admin\">Connectez-vous ici</a>"
+      "admin_link_html": "Êtes-vous le propriétaire de la boutique? <a href=\"\/admin\">Connectez-vous ici<\/a>"
     },
     "signup": {
       "success": "Nous vous ferons parvenir un courriel juste avant l'ouverture!"
@@ -431,10 +431,10 @@
   },
   "store_availability": {
     "general": {
-      "pick_up_available_at_html": "Ramassage disponible à <strong>{{ location_name }}</strong>",
+      "pick_up_available_at_html": "Ramassage disponible à <strong>{{ location_name }}<\/strong>",
       "view_store_info": "Afficher les informations de la boutique",
       "check_other_stores": "Vérifier la disponibilité dans d'autres boutiques",
-      "pick_up_unavailable_at_html": "Ramassage actuellement indisponible à <strong>{{ location_name }}</strong>",
+      "pick_up_unavailable_at_html": "Ramassage actuellement indisponible à <strong>{{ location_name }}<\/strong>",
       "miles": "mi",
       "kilometers": "km",
       "pick_up_available": "Ramassage disponible",
@@ -446,12 +446,28 @@
     "form": {
       "post_success": "Merci de nous avoir avoir contacté. Nous vous reviendrons le plus rapidement possible.",
       "post_error": "Merci de bien vouloir ajuster les éléments suivants :",
-      "post_field_error_html": "<strong>{{ field }}</strong> {{ error }}",
+      "post_field_error_html": "<strong>{{ field }}<\/strong> {{ error }}",
       "name": "Nom",
       "email": "Courriel",
       "phone": "Téléphone",
       "message": "Message",
       "send": "Envoyer"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "one": {
+        "errors": {
+          "merchandise": {
+            "gift_card_price_must_be_greater_than_zero": "Le prix de la carte cadeau doit être supérieur à 0."
+          }
+        }
+      }
+    },
+    "notices": {
+      "cart": {
+        "gift_card_price_must_be_greater_than_zero": "Le produit groupé '%{name}' ne peut pas être ajouté au panier."
+      }
     }
   }
 }
