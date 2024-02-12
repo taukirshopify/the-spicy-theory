@@ -7,17 +7,9 @@
       ],
       "settings": {
       }
-    },
-    "custom_liquid_PaNyJG": {
-      "type": "custom-liquid",
-      "settings": {
-        "no_margins": false,
-        "custom_liquid": "<iframe src=\"https:\/\/www.faire.com\/embed\/bw_rzen6jq9da\" width=\"900\" height=\"600\" scrolling=\"no\" style=\"margin:0 auto;border:none;display:block;max-width:100%;width:900px;height:600px;\"><\/iframe>"
-      }
     }
   },
   "order": [
-    "main",
-    "custom_liquid_PaNyJG"
+    "main"
   ]
 }
