@@ -457,6 +457,13 @@
         "show_view_all": true
       }
     },
+    "custom_liquid_dCrLwM": {
+      "type": "custom-liquid",
+      "settings": {
+        "no_margins": false,
+        "custom_liquid": "<iframe src=\"https:\/\/www.faire.com\/embed\/bw_rzen6jq9da\" width=\"900\" height=\"600\" scrolling=\"no\" style=\"margin:0 auto;border:none;display:block;max-width:100%;width:900px;height:600px;\"><\/iframe>"
+      }
+    },
     "de0a8668-c6f1-476b-a453-6276da816b0b": {
       "type": "gallery",
       "blocks": {
@@ -561,6 +568,7 @@
     "8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba",
     "9e71ffbd-8d9f-4727-b8f5-277a8f644c52",
     "5d476e0e-f92f-4e46-b5ff-cf5b9b57eede",
+    "custom_liquid_dCrLwM",
     "de0a8668-c6f1-476b-a453-6276da816b0b",
     "eadde674-a7bf-492f-9e7c-5ad05df623e0"
   ]
