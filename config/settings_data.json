@@ -323,6 +323,12 @@
           "font": "assistant_n4",
           "css": ""
         }
+      },
+      "11105581477831763250": {
+        "type": "shopify:\/\/apps\/ga-free-gift-buy-x-get-y-bogo\/blocks\/app-embeded\/624007ce-b7ae-460f-9bb2-c6b59ecf9add",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
