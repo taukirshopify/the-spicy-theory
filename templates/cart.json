@@ -16,9 +16,34 @@
         "shipping_calculator": false,
         "shipping_calculator_default_country": "United States"
       }
+    },
+    "1709126736fdb702d9": {
+      "type": "apps",
+      "blocks": {
+        "cartking_free_gifts_app_block_nKecLF": {
+          "type": "shopify:\/\/apps\/cartking-free-gifts\/blocks\/app-block\/4831ea51-9f80-493d-8541-da4662a9e219",
+          "settings": {
+            "autoAdd": true,
+            "disallowUponAddition": false,
+            "ineligibleGiftRemove": true,
+            "cardColor": "#ffd100",
+            "cardTextColor": "#2c2528",
+            "buttonColor": "#000000",
+            "title": "Gifts",
+            "cta": "Add Gift",
+            "postAddTxt": "gift(s) added"
+          }
+        }
+      },
+      "block_order": [
+        "cartking_free_gifts_app_block_nKecLF"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1709126736fdb702d9"
   ]
 }
