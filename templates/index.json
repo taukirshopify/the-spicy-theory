@@ -271,8 +271,8 @@
       "settings": {
         "subheading": "",
         "title": "Introducing: The Spice Theory Monthly Surprise Box",
-        "text": "<p>Enjoy a <strong>curated mix of our signature products paired with a selection of sauces, snacks, and household goods from top brands<\/strong> each month. Experience the joy of discovering new flavors and delights with every unboxing!<\/p>",
-        "button_label": "ORDER NOW!",
+        "text": "<p>Indulge in <strong>a curated mix of our signature products, complemented by a selection of sauces, snacks, and household goods from top brands<\/strong>, delivered to your doorstep each month. Join us on this collaborative journey to explore new flavors and delights with every unboxing.<\/p>",
+        "button_label": "COMING SOON!",
         "button_link": "https:\/\/thespicetheory.com\/products\/tst-favorites-box",
         "button_style": "secondary",
         "text_alignment": "center",
@@ -450,7 +450,7 @@
     "5d476e0e-f92f-4e46-b5ff-cf5b9b57eede": {
       "type": "featured-blog",
       "settings": {
-        "title": "Healthy, Flavorful Valentine's Day Dinner Recipes",
+        "title": "Healthy, Flavorful 30-Minute Recipes",
         "blog": "recipe",
         "crop_ratio": "1-1",
         "show_author": false,
