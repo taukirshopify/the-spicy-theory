@@ -211,8 +211,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% endstyle %}
   {%- endif -%}
 
-  {% unless request.design_mode %}{% include 'wlm-head' %}{% endunless %}
-{{ content_for_header }}
+  {{ content_for_header }}
 {% include 'swift_core' %} 
   {% render 'judgeme_core' %}
  {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
@@ -248,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       {% section 'header' %}
 
       <main id="content">
-        {% comment %}{{ content_for_layout }}{% endcomment %}{% include 'wlm-body' %}
+        {{ content_for_layout }}
       </main>
          {% section 'newsletter' %}
     </div><!-- /#page-wrap-content -->
