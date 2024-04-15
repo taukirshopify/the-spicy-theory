@@ -206,7 +206,7 @@
         "settings": {
           "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "🔥 Spend $45+ And Get FREE Sampler Pack With Code: WHM2024",
+          "announcement_text": "Free Shipping On Orders $69+ with code: FREESHIP",
           "announcement_link": "",
           "show_social_icons": true,
           "show_country_selector": false,
@@ -244,13 +244,6 @@
         "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
-        }
-      },
-      "11825749942329260384": {
-        "type": "shopify:\/\/apps\/fueled-google-analytics-ga4\/blocks\/fueled-embed\/b7733e10-32a6-41fd-a62d-3195dc211aa9",
-        "disabled": false,
-        "settings": {
-          "track": true
         }
       },
       "14060646107696862457": {
