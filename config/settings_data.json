@@ -216,7 +216,7 @@
       "judgeme_carousel_section": {
         "type": "judgeme_carousel_section",
         "custom_css": [
-          "div {background: #648a14;}"
+
         ],
         "settings": {
           "maxwidth": 1920
