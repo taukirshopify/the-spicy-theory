@@ -216,9 +216,7 @@
       "judgeme_carousel_section": {
         "type": "judgeme_carousel_section",
         "custom_css": [
-          "div {background: #648a14;}",
-          "h2.jdgm-carousel-title {color: #fff;}",
-          "span.jdgm-carousel-number-of-reviews a {color: #fff;}"
+          "div {background: #648a14;}"
         ],
         "settings": {
           "maxwidth": 1920
@@ -261,12 +259,6 @@
       },
       "15551562133269743879": {
         "type": "shopify:\/\/apps\/codeinspire-accessibility-tool\/blocks\/app-embed\/9c320235-d5d5-4e1c-baf6-809572578ea3",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "1476460571416118356": {
-        "type": "shopify:\/\/apps\/flowio-email-marketing-pop-up\/blocks\/app-embed\/81f7f7b6-2c8e-4c5e-8541-1e81b7e0d680",
         "disabled": false,
         "settings": {
         }
