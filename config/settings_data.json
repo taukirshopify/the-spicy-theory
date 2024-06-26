@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "header_col": "#000000",
@@ -204,7 +213,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement_show": true,
+          "announcement_show": false,
           "announcement_home_only": false,
           "announcement_text": "FATHER'S DAY SALE: Save 20% OFF Sitewide • Use Code: FATHERSDAY24",
           "announcement_link": "",
