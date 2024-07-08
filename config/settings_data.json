@@ -213,7 +213,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement_show": true,
+          "announcement_show": false,
           "announcement_home_only": false,
           "announcement_text": "JULY 4TH SALE: $4 FLAT RATE shipping on orders over $40.  Available til July 7th! NO CODE NEEDED!",
           "announcement_link": "",
