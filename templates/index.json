@@ -38,7 +38,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/Amazon_Storefront_Banner_8.png",
-        "image_link": "",
+        "image_link": "https:\/\/thespicetheory.com\/pages\/press",
         "image_position": "center center",
         "height": "natural",
         "height_desktop": 200,
@@ -312,7 +312,6 @@
         "button_style": "secondary",
         "text_alignment": "center",
         "text_width": 40,
-        "image": "shopify:\/\/shop_images\/tstaz_bbc8537e-c252-4b95-989e-6e4ec2452512.png",
         "video": "",
         "image_width": 85,
         "image_position": "right",
