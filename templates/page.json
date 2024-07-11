@@ -71,7 +71,7 @@
       "settings": {
         "title": "",
         "grid": 3,
-        "desktop_image_height": 300,
+        "desktop_image_height": 400,
         "mobile_image_height": 400,
         "sub_title_size": 20,
         "title_size": 26,
