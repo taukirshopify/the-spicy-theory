@@ -85,10 +85,79 @@
         "caption_bg": "#ffffff",
         "caption_opacity": 100
       }
+    },
+    "gallery_KEFUQE": {
+      "type": "gallery",
+      "blocks": {
+        "image_3wpDHW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRO_2_fc81e4c3-6aaa-44b2-90c4-42b025c2377f.png",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "https:\/\/fedexcares.com\/stories\/global-entrepreneurship\/dr-corrie-amos-owner-spice-theory-new-york-new-york",
+            "text_alignment": "top center"
+          }
+        },
+        "image_gRVE9L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRO_3_ba69ecbd-320e-45ad-88cf-21303d62048a.png",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "https:\/\/www.caribbiznetwork.com\/shop-caribbean-blog\/spicetheory",
+            "text_alignment": "center center"
+          }
+        },
+        "image_c8D8rk": {
+          "type": "image",
+          "settings": {
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "https:\/\/westchestermagazine.com\/life-style\/spice-theory-dr-corrie-amos\/",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_3wpDHW",
+        "image_gRVE9L",
+        "image_c8D8rk"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "sub_title_size": 20,
+        "title_size": 26,
+        "button_style": "primary",
+        "enable_margin": true,
+        "enable_carousel": true,
+        "image_overlay_style": "none",
+        "alternate_bg_color": false,
+        "caption_show": true,
+        "caption_color": "#464654",
+        "caption_bg": "#ffffff",
+        "caption_opacity": 100
+      }
     }
   },
   "order": [
     "main",
-    "gallery_4AJF7i"
+    "gallery_4AJF7i",
+    "gallery_KEFUQE"
   ]
 }
