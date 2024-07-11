@@ -290,7 +290,7 @@
         "video": "",
         "image_width": 100,
         "image_position": "right",
-        "media_size": "contain",
+        "media_size": "cover",
         "alternate_bg_color": true
       }
     },
