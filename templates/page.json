@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -7,9 +16,79 @@
       ],
       "settings": {
       }
+    },
+    "gallery_4AJF7i": {
+      "type": "gallery",
+      "blocks": {
+        "image_gFNb8L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRO_2.png",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "https:\/\/www.forbes.com\/sites\/bazdreisinger\/2024\/03\/25\/15-fabulous-caribbean-woman-owned-brands-for-womens-history-month\/",
+            "text_alignment": "center center"
+          }
+        },
+        "image_8GFEXy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRO_5.png",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "https:\/\/www.cuisinenoir.com\/the-spice-theory-caribbean-food-spices\/",
+            "text_alignment": "center center"
+          }
+        },
+        "image_infkgY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRO.png",
+            "video": "",
+            "image_position": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "https:\/\/westchestermagazine.com\/life-style\/spice-theory-dr-corrie-amos\/",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_gFNb8L",
+        "image_8GFEXy",
+        "image_infkgY"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 300,
+        "mobile_image_height": 400,
+        "sub_title_size": 20,
+        "title_size": 26,
+        "button_style": "primary",
+        "enable_margin": true,
+        "enable_carousel": true,
+        "image_overlay_style": "none",
+        "alternate_bg_color": false,
+        "caption_show": true,
+        "caption_color": "#464654",
+        "caption_bg": "#ffffff",
+        "caption_opacity": 100
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "gallery_4AJF7i"
   ]
 }
