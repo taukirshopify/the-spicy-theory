@@ -213,11 +213,11 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement_show": false,
+          "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "JULY 4TH SALE: $4 FLAT RATE shipping on orders over $40.  Available til July 7th! NO CODE NEEDED!",
-          "announcement_link": "",
-          "show_social_icons": true,
+          "announcement_text": "📦 NOW AVAILABLE ON AMAZON PRIME: Get Free 2-Day Shipping On Best Sellers! SHOP HERE",
+          "announcement_link": "https:\/\/www.amazon.com\/s?me=A2G1L2MRT9QXYZ&marketplaceID=ATVPDKIKX0DER",
+          "show_social_icons": false,
           "show_country_selector": false,
           "show_language_selector": true
         }
