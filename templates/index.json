@@ -34,6 +34,32 @@
         "image_overlay_style": "standard"
       }
     },
+    "image_with_text_overlay_UqBxUi": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amazon_Storefront_Banner.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "natural",
+        "height_desktop": 200,
+        "height_mobile": 250,
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button1_label": "",
+        "button1_link": "",
+        "button2_label": "",
+        "button2_link": "",
+        "button_style": "primary",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none"
+      }
+    },
     "5c327736-5765-45a2-a17f-3652f5e6631d": {
       "type": "featured-collection",
       "settings": {
@@ -559,6 +585,7 @@
   },
   "order": [
     "feebce35-2433-4981-8a19-c0aa5ce10671",
+    "image_with_text_overlay_UqBxUi",
     "5c327736-5765-45a2-a17f-3652f5e6631d",
     "a4b6affc-1449-4495-82f0-4e4371cb638e",
     "1590158040284",
