@@ -90,19 +90,6 @@
             "text_alignment": "center center"
           }
         },
-        "image_PTVxG6": {
-          "type": "image",
-          "settings": {
-            "video": "",
-            "image_position": "center center",
-            "enlarge_image": false,
-            "subheading": "Subheading",
-            "title": "Heading",
-            "button_label": "",
-            "link": "",
-            "text_alignment": "center center"
-          }
-        },
         "image_bwzALM": {
           "type": "image",
           "settings": {
@@ -124,7 +111,6 @@
         "image_infkgY",
         "image_7wdJYk",
         "image_XJbqjU",
-        "image_PTVxG6",
         "image_bwzALM"
       ],
       "settings": {
