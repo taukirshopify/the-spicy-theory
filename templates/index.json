@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "feebce35-2433-4981-8a19-c0aa5ce10671": {
@@ -270,14 +279,14 @@
       "type": "image-with-text",
       "settings": {
         "subheading": "",
-        "title": "Introducing: The Spice Theory Monthly Surprise Box",
-        "text": "<p>Indulge in <strong>a curated mix of our signature products, complemented by a selection of sauces, snacks, and household goods from top brands<\/strong>, delivered to your doorstep each month. Join us on this collaborative journey to explore new flavors and delights with every unboxing.<\/p>",
-        "button_label": "COMING SOON!",
-        "button_link": "",
+        "title": "NOW AVAILABLE ON AMAZON PRIME!",
+        "text": "<p>Exciting News! Your favorite Spice Theory blends and smoked sea salts just launched on Amazon, just in time for Prime Day. Enjoy Free 2-Day Shipping and special offers with Amazon Prime!<\/p>",
+        "button_label": "SHOP ON AMAZON",
+        "button_link": "https:\/\/www.amazon.com\/s?me=A2G1L2MRT9QXYZ&marketplaceID=ATVPDKIKX0DER",
         "button_style": "secondary",
         "text_alignment": "center",
         "text_width": 40,
-        "image": "shopify:\/\/shop_images\/Untitled_design_9.png",
+        "image": "shopify:\/\/shop_images\/PRO_3.png",
         "video": "",
         "image_width": 100,
         "image_position": "left",
