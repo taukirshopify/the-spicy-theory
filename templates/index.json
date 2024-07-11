@@ -286,10 +286,10 @@
         "button_style": "secondary",
         "text_alignment": "center",
         "text_width": 40,
-        "image": "shopify:\/\/shop_images\/PRO_3.png",
+        "image": "shopify:\/\/shop_images\/tstamz.png",
         "video": "",
         "image_width": 100,
-        "image_position": "left",
+        "image_position": "right",
         "media_size": "contain",
         "alternate_bg_color": true
       }
