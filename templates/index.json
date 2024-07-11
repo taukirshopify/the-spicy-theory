@@ -288,9 +288,9 @@
         "text_width": 40,
         "image": "shopify:\/\/shop_images\/tstamz.png",
         "video": "",
-        "image_width": 100,
+        "image_width": 85,
         "image_position": "right",
-        "media_size": "cover",
+        "media_size": "contain",
         "alternate_bg_color": true
       }
     },
