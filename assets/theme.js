@@ -6192,3 +6192,11 @@ $("#shopify-section-template--16072780251309__feebce35-2433-4981-8a19-c0aa5ce106
 });
 })(theme.jQuery);  
 /* Built with Barry v1.0.8 */ 
+
+var links = document.links;
+for (let i = 0, linksLength = links.length ; i < linksLength ; i++) {
+  if (links[i].hostname !== window.location.hostname) {
+    links[i].target = '_blank';
+    links[i].rel = 'noreferrer noopener';
+  }
+}
