@@ -470,7 +470,8 @@
           "disclaimer": {
             "description_transactional_html": "Email or text me with news or offers."
           }
-        }
+        },
+        "accept_marketing_checkbox_label": "Email or text me with news or offers."
       }
     }
   }
