@@ -462,5 +462,12 @@
       "message": "Message",
       "send": "Send"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "marketing": {
+        "accept_sms_checkbox_label": "By submitting this form and signing up for texts, you consent to receive marketing text messages (e.g. promos, cart reminders) from The Spice Theory at the number provided, including messages sent by autodialer. Consent is not a condition of purchase."
+      }
+    }
   }
 }
