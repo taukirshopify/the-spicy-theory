@@ -462,16 +462,5 @@
       "message": "Message",
       "send": "Send"
     }
-  },
-  "shopify": {
-    "checkout": {
-      "marketing": {
-        "sms": {
-          "disclaimer": {
-            "description_transactional_html": "You may receive text messages related to order confirmation and shipping updates. Reply STOP to unsubscribe. Reply HELP for help. Message frequency varies. Msg & data rates may apply. View our   and  ."
-          }
-        }
-      }
-    }
   }
 }
