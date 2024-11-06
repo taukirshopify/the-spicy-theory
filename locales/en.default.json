@@ -462,5 +462,16 @@
       "message": "Message",
       "send": "Send"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "marketing": {
+        "sms": {
+          "disclaimer": {
+            "description_transactional_html": "Email or text me with news or offers."
+          }
+        }
+      }
+    }
   }
 }
