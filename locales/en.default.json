@@ -471,7 +471,8 @@
             "description_transactional_html": "Email or text me with news or offers."
           }
         },
-        "accept_marketing_checkbox_label": "Email or text me with news or offers."
+        "accept_marketing_checkbox_label": "Email me with news or offers.",
+        "accept_sms_checkbox_label": "Text me with news or offers."
       }
     }
   }
