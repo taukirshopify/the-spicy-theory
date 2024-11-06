@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "products": {
     "product": {
@@ -452,6 +461,19 @@
       "phone": "Phone",
       "message": "Message",
       "send": "Send"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "marketing": {
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "Privacy Policy",
+            "description_html": "By submitting this form and signing up for texts, you consent to receive marketing text messages (e.g. promos, cart reminders) from The Spice Theory at the number provided, including messages sent by autodialer. Consent is not a condition of purchase.",
+            "description_transactional_html": "Msg & data rates may apply. Msg frequency varies. Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available). Privacy Policy & Terms."
+          }
+        }
+      }
     }
   }
 }
