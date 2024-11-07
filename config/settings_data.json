@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "header_col": "#000000",
@@ -79,19 +79,19 @@
     "swatch_enabled": false,
     "prod_thumb_show_options": false,
     "search_type": "product,article,page",
-    "favicon": "shopify:\/\/shop_images\/T.S.T_logo_e5aafa67-6b3e-4b49-a3aa-e0a627a9c5b8.png",
+    "favicon": "shopify://shop_images/T.S.T_logo_e5aafa67-6b3e-4b49-a3aa-e0a627a9c5b8.png",
     "social_twitter_url": "",
-    "social_facebook_url": "https:\/\/www.facebook.com\/shopspicetheory\/",
-    "social_instagram_url": "https:\/\/www.instagram.com\/shopspicetheory\/",
-    "social_tiktok_url": "https:\/\/www.tiktok.com\/@drcorriewitdaspice",
-    "social_linkedin_url": "https:\/\/www.linkedin.com\/company\/88030592\/admin\/feed\/posts\/",
+    "social_facebook_url": "https://www.facebook.com/shopspicetheory/",
+    "social_instagram_url": "https://www.instagram.com/shopspicetheory/",
+    "social_tiktok_url": "https://www.tiktok.com/@drcorriewitdaspice",
+    "social_linkedin_url": "https://www.linkedin.com/company/88030592/admin/feed/posts/",
     "section_padding": "large",
     "cart_type": "drawer-dynamic",
     "open_drawer_on_mobile": false,
     "currency_code_enabled": true,
     "cart_currency_code_enabled": true,
     "superscript_decimals": true,
-    "checkout_logo_image": "shopify:\/\/shop_images\/T.S.T_logo_ce69db05-871e-419d-8e6c-dd906afbb7c1.png",
+    "checkout_logo_image": "shopify://shop_images/T.S.T_logo_ce69db05-871e-419d-8e6c-dd906afbb7c1.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#f4f2e9",
@@ -158,7 +158,7 @@
           "footer_complexity": "columns",
           "footer_payment_icons": true,
           "show_footer_logo": false,
-          "footer_logo": "shopify:\/\/shop_images\/T.S.T_logo_ce69db05-871e-419d-8e6c-dd906afbb7c1.png",
+          "footer_logo": "shopify://shop_images/T.S.T_logo_ce69db05-871e-419d-8e6c-dd906afbb7c1.png",
           "text_content": "",
           "footer_linklist": "company",
           "footer_linklist2": "footer",
@@ -191,9 +191,9 @@
           "promo_products_product_1": "old-fashioned",
           "promo_products_product_2": "natural-mystic-adobo-blend",
           "cart_summary_image_show": true,
-          "cart_summary_image": "shopify:\/\/shop_images\/TST_Favorites_Box_2.png",
+          "cart_summary_image": "shopify://shop_images/TST_Favorites_Box_2.png",
           "cart_summary_use_tint": true,
-          "cart_summary_image_url": "shopify:\/\/collections\/bundle-deals",
+          "cart_summary_image_url": "shopify://collections/bundle-deals",
           "cart_summary_image_heading": "FREE SHIPPING ON ORDERS $70+",
           "cart_summary_image_subheading": ""
         }
@@ -206,7 +206,7 @@
           "popup_dismiss_for_days": 30,
           "position": "bottom-right",
           "title": "Sign up and save",
-          "text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>",
+          "text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.</p>",
           "show_newsletter": true,
           "show_social_icons": true
         }
@@ -216,8 +216,8 @@
         "settings": {
           "announcement_show": false,
           "announcement_home_only": false,
-          "announcement_text": "Labor Day Sale! 20% Off with code LABORDAY24—Shop Now!",
-          "announcement_link": "https:\/\/www.amazon.com\/s?me=A2G1L2MRT9QXYZ&marketplaceID=ATVPDKIKX0DER",
+          "announcement_text": "Just in time for Thanksgiving!",
+          "announcement_link": "https://www.amazon.com/s?me=A2G1L2MRT9QXYZ&marketplaceID=ATVPDKIKX0DER",
           "show_social_icons": false,
           "show_country_selector": false,
           "show_language_selector": true
@@ -225,9 +225,7 @@
       },
       "judgeme_carousel_section": {
         "type": "judgeme_carousel_section",
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "maxwidth": 1920
         }
@@ -237,61 +235,52 @@
         "settings": {
           "heading": "become a tst vip!",
           "title_size": 40,
-          "subtext": "<p><strong>NO SPAM - JUST DELICIOUS RECIPES, OFFERS, AND PRODUCT UPDATES DELIVERED TO YOUR INBOX<\/strong><\/p>",
+          "subtext": "<p><strong>NO SPAM - JUST DELICIOUS RECIPES, OFFERS, AND PRODUCT UPDATES DELIVERED TO YOUR INBOX</strong></p>",
           "color_bg": "#ffffff",
           "alternate_bg_color": false,
           "full_width": false
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "12120936241911852800": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/reviews_tab/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
           "position": "right"
         }
       },
       "15551562133269743879": {
-        "type": "shopify:\/\/apps\/codeinspire-accessibility-tool\/blocks\/app-embed\/9c320235-d5d5-4e1c-baf6-809572578ea3",
+        "type": "shopify://apps/codeinspire-accessibility-tool/blocks/app-embed/9c320235-d5d5-4e1c-baf6-809572578ea3",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10436698916776057164": {
-        "type": "shopify:\/\/apps\/appstle-subscriptions-app\/blocks\/appstle-subscription-helper\/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+        "type": "shopify://apps/appstle-subscriptions-app/blocks/appstle-subscription-helper/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "16237003337219470499": {
-        "type": "shopify:\/\/apps\/appstle-loyalty-rewards\/blocks\/appstle-loyalty\/1886c0f8-77b6-4a85-af11-b43cc17ae1c1",
+        "type": "shopify://apps/appstle-loyalty-rewards/blocks/appstle-loyalty/1886c0f8-77b6-4a85-af11-b43cc17ae1c1",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "4887604186841085581": {
-        "type": "shopify:\/\/apps\/yanet-back-in-stock\/blocks\/bis\/4a272ca4-2ae2-4e8b-9da8-8dc6353ba485",
+        "type": "shopify://apps/yanet-back-in-stock/blocks/bis/4a272ca4-2ae2-4e8b-9da8-8dc6353ba485",
         "disabled": false,
         "settings": {
-          "product_list": [
-
-          ],
+          "product_list": [],
           "tags": "",
           "show": false,
           "inline": true,
@@ -399,11 +388,11 @@
       "swatch_shape_grid": "circle",
       "search_type": "product,article,page",
       "live_search_show_vendor": true,
-      "social_twitter_url": "https:\/\/twitter.com\/shopify",
-      "social_facebook_url": "https:\/\/facebook.com\/shopify",
-      "social_youtube_url": "https:\/\/youtube.com\/user\/shopify",
-      "social_instagram_url": "https:\/\/www.instagram.com\/shopify\/",
-      "social_tiktok_url": "https:\/\/tiktok.com\/@shopify?",
+      "social_twitter_url": "https://twitter.com/shopify",
+      "social_facebook_url": "https://facebook.com/shopify",
+      "social_youtube_url": "https://youtube.com/user/shopify",
+      "social_instagram_url": "https://www.instagram.com/shopify/",
+      "social_tiktok_url": "https://tiktok.com/@shopify?",
       "section_padding": "large",
       "cart_type": "drawer-dynamic",
       "superscript_decimals": true,
@@ -581,9 +570,9 @@
       "collection_image_position": "center center",
       "collection_text_alignment": "center",
       "search_type": "product,article,page",
-      "social_twitter_url": "https:\/\/twitter.com\/shopify",
-      "social_facebook_url": "https:\/\/facebook.com\/shopify",
-      "social_youtube_url": "https:\/\/youtube.com\/user\/shopify",
+      "social_twitter_url": "https://twitter.com/shopify",
+      "social_facebook_url": "https://facebook.com/shopify",
+      "social_youtube_url": "https://youtube.com/user/shopify",
       "section_padding": "large",
       "cart_type": "drawer-dynamic",
       "checkout_logo_position": "center",
@@ -933,10 +922,10 @@
       "collection_text_alignment": "center",
       "search_type": "product",
       "live_search_search_meta": true,
-      "social_twitter_url": "https:\/\/twitter.com\/shopify",
-      "social_facebook_url": "https:\/\/facebook.com\/shopify",
-      "social_pinterest_url": "https:\/\/pinterest.com\/shopify",
-      "social_instagram_url": "https:\/\/instagram.com\/shopify",
+      "social_twitter_url": "https://twitter.com/shopify",
+      "social_facebook_url": "https://facebook.com/shopify",
+      "social_pinterest_url": "https://pinterest.com/shopify",
+      "social_instagram_url": "https://instagram.com/shopify",
       "section_padding": "large",
       "cart_type": "drawer-dynamic",
       "checkout_logo_position": "center",
@@ -1021,8 +1010,7 @@
         },
         "announcement-bar": {
           "type": "announcement-bar",
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
