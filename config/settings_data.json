@@ -194,7 +194,7 @@
           "cart_summary_image": "shopify://shop_images/TST_Favorites_Box_2.png",
           "cart_summary_use_tint": true,
           "cart_summary_image_url": "shopify://collections/bundle-deals",
-          "cart_summary_image_heading": "FREE SHIPPING ON ORDERS $70+",
+          "cart_summary_image_heading": "",
           "cart_summary_image_subheading": ""
         }
       },
