@@ -214,9 +214,9 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement_show": false,
+          "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "",
+          "announcement_text": "Celebrate Easter with 15% Off Gourmet Seasonings! Enjoy this exclusive offer from April 13–16 using code EASTER2025.",
           "announcement_link": "https://www.amazon.com/s?me=A2G1L2MRT9QXYZ&marketplaceID=ATVPDKIKX0DER",
           "show_social_icons": false,
           "show_country_selector": false,
