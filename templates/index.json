@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "feebce35-2433-4981-8a19-c0aa5ce10671": {
@@ -16,16 +16,16 @@
         ".image-overlay {position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-align: center; display: flex; align-items: center; justify-content: center; background: #0000001a;}"
       ],
       "settings": {
-        "video": "https:\/\/youtu.be\/Rg1xEU83tac",
-        "placeholder_image": "shopify:\/\/shop_images\/Spice_Theory_Spices_On_Kitchen_Counter.png",
+        "video": "https://youtu.be/Rg1xEU83tac",
+        "placeholder_image": "shopify://shop_images/Spice_Theory_Spices_On_Kitchen_Counter.png",
         "subheading": "",
-        "title": "<strong> Authentic Caribbean Flavors Without The Additives<\/strong>",
+        "title": "<strong> Celebrate Easter with 15% Off Gourmet Seasonings! Enjoy this exclusive offer from April 13–16 using code EASTER2025.</strong>",
         "title_size": 40,
         "heading_h1": true,
         "text": "",
         "enlarge_text": true,
         "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/shop-all-spices",
+        "button_link": "shopify://collections/shop-all-spices",
         "button_style": "primary",
         "text_alignment": "center center",
         "full_width": true,
@@ -37,8 +37,8 @@
     "image_with_text_overlay_UqBxUi": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Amazon_Storefront_Banner_8.png",
-        "image_link": "https:\/\/thespicetheory.com\/pages\/press",
+        "image": "shopify://shop_images/Amazon_Storefront_Banner_8.png",
+        "image_link": "https://thespicetheory.com/pages/press",
         "image_position": "center center",
         "height": "natural",
         "height_desktop": 200,
@@ -76,15 +76,13 @@
     },
     "a4b6affc-1449-4495-82f0-4e4371cb638e": {
       "type": "rich-text",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "subheading": "",
         "title": "Physician-Crafted, Vegan-Friendly \nCaribbean Seasonings",
         "title_size": 40,
         "heading_h1": true,
-        "text": "<p>Crafted by a physician of Jamaican heritage, The Spice Theory offers a premium line of <strong>all-in-one, low sodium, vegan spice blends packed with robust Caribbean flavor. <\/strong>Our ready-to-use, all-natural spice blends  and infused oils are ethically sourced from small-holder farms and contain <strong>high-quality,<\/strong> <strong>freshly ground ingredients without any additives, preservatives or MSG<\/strong>. Keep it simple in the kitchen with a healthier approach to cooking authentic Caribbean-inspired cuisine.<\/p>",
+        "text": "<p>Crafted by a physician of Jamaican heritage, The Spice Theory offers a premium line of <strong>all-in-one, low sodium, vegan spice blends packed with robust Caribbean flavor. </strong>Our ready-to-use, all-natural spice blends  and infused oils are ethically sourced from small-holder farms and contain <strong>high-quality,</strong> <strong>freshly ground ingredients without any additives, preservatives or MSG</strong>. Keep it simple in the kitchen with a healthier approach to cooking authentic Caribbean-inspired cuisine.</p>",
         "enlarge_text": false,
         "button_label": "",
         "button_link": "",
@@ -101,13 +99,13 @@
       "settings": {
         "subheading": "",
         "title": "MEET DR. CORRIE",
-        "text": "<p>Hello! I'm Dr. Corrie Amos, a board-certified anesthesiologist, culinary enthusiast, and health & wellness advocate. <strong>The Spice Theory<\/strong> is the brainchild of my forged love of good food and my passion for science!<\/p>",
+        "text": "<p>Hello! I'm Dr. Corrie Amos, a board-certified anesthesiologist, culinary enthusiast, and health & wellness advocate. <strong>The Spice Theory</strong> is the brainchild of my forged love of good food and my passion for science!</p>",
         "button_label": "Learn More",
-        "button_link": "shopify:\/\/pages\/meet-dr-corrie",
+        "button_link": "shopify://pages/meet-dr-corrie",
         "button_style": "primary",
         "text_alignment": "center",
         "text_width": 54,
-        "image": "shopify:\/\/shop_images\/Untitled_design_11.png",
+        "image": "shopify://shop_images/Untitled_design_11.png",
         "video": "",
         "image_width": 80,
         "image_position": "right",
@@ -122,7 +120,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
+            "image": "shopify://shop_images/made-in-usa_300x_52cf9481-a0b4-4b1b-8785-48fe2bdf2bbd.png",
             "video": "",
             "image_width": 150,
             "title": "",
@@ -135,7 +133,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
+            "image": "shopify://shop_images/physician-created_300x_ad4bc3a1-179d-4890-90e6-2da869d7b18d.png",
             "video": "",
             "image_width": 150,
             "title": "",
@@ -148,7 +146,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
+            "image": "shopify://shop_images/women-owned_300x_39814d1d-5bbc-411e-9b42-45174f5e5b89.png",
             "video": "",
             "image_width": 150,
             "title": "",
@@ -245,8 +243,7 @@
         },
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-1": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-2": {
           "type": "price",
@@ -256,8 +253,7 @@
         },
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-3": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16057255526573__58f6bd34-e607-455c-a211-e7fb5226c4a4-1680053056dd1c366d-4": {
           "type": "variant_picker",
@@ -306,13 +302,13 @@
       "settings": {
         "subheading": "",
         "title": "NOW AVAILABLE ON AMAZON PRIME!",
-        "text": "<p>Exciting News! Your favorite Spice Theory blends and smoked sea salts just launched on Amazon, just in time for Prime Day. Enjoy Free 2-Day Shipping and special offers with Amazon Prime!<\/p>",
+        "text": "<p>Exciting News! Your favorite Spice Theory blends and smoked sea salts just launched on Amazon, just in time for Prime Day. Enjoy Free 2-Day Shipping and special offers with Amazon Prime!</p>",
         "button_label": "SHOP ON AMAZON",
-        "button_link": "https:\/\/www.amazon.com\/s?k=The+Spice+Theory&me=A2G1L2MRT9QXYZ&ref=nb_sb_noss",
+        "button_link": "https://www.amazon.com/s?k=The+Spice+Theory&me=A2G1L2MRT9QXYZ&ref=nb_sb_noss",
         "button_style": "secondary",
         "text_alignment": "center",
         "text_width": 40,
-        "image": "shopify:\/\/shop_images\/PRO_11.png",
+        "image": "shopify://shop_images/PRO_11.png",
         "video": "",
         "image_width": 85,
         "image_position": "right",
@@ -327,7 +323,7 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_9ac3b1ab-d108-45d3-b99b-223ce1b927ea.jpg",
+            "image": "shopify://shop_images/1_9ac3b1ab-d108-45d3-b99b-223ce1b927ea.jpg",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
@@ -336,7 +332,7 @@
             "heading_h1": false,
             "text": "",
             "enlarge_text": true,
-            "button_1_link": "shopify:\/\/collections\/best-sellers",
+            "button_1_link": "shopify://collections/best-sellers",
             "button_1_label": "SHOP NOW",
             "button_1_style": "primary",
             "button_2_link": "",
@@ -349,7 +345,7 @@
         "template--16057255526573__8eac7624-b4a3-4b3e-bcd7-42d1be1c00ba-16791505213d06547d-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_0f970885-6e7b-4862-932d-acabec438c02.jpg",
+            "image": "shopify://shop_images/2_0f970885-6e7b-4862-932d-acabec438c02.jpg",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
@@ -358,7 +354,7 @@
             "heading_h1": false,
             "text": "",
             "enlarge_text": true,
-            "button_1_link": "shopify:\/\/pages\/recipes",
+            "button_1_link": "shopify://pages/recipes",
             "button_1_label": "VIEW DELICIOUS RECIPES",
             "button_1_style": "primary",
             "button_2_link": "",
@@ -372,14 +368,14 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_36ebe3a6-72a6-464c-acc4-1fc589b63acc.jpg",
+            "image": "shopify://shop_images/3_36ebe3a6-72a6-464c-acc4-1fc589b63acc.jpg",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "Subheading",
             "title": "Tell your story",
             "title_size": 40,
             "heading_h1": false,
-            "text": "<p>Pair text with an image to tell a story<\/p>",
+            "text": "<p>Pair text with an image to tell a story</p>",
             "enlarge_text": true,
             "button_1_link": "",
             "button_1_label": "",
@@ -424,8 +420,7 @@
         },
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-1": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-2": {
           "type": "price",
@@ -435,8 +430,7 @@
         },
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-3": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16057255526573__9e71ffbd-8d9f-4727-b8f5-277a8f644c52-167915021054ab50aa-4": {
           "type": "variant_picker",
@@ -498,42 +492,42 @@
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/adobo_chicken_and_sheet_pan_vegetables.jpg",
-            "video": "https:\/\/thespicetheory.com\/pages\/easy-adobo-chicken",
+            "image": "shopify://shop_images/adobo_chicken_and_sheet_pan_vegetables.jpg",
+            "video": "https://thespicetheory.com/pages/easy-adobo-chicken",
             "image_position": "center center",
             "enlarge_image": true,
             "subheading": "Easy Adobo Chicken & Sheet Pan Vegetables",
             "title": "",
             "button_label": "",
-            "link": "shopify:\/\/blogs\/recipe\/easy-adobo-chicken-sheet-pan-vegetables",
+            "link": "shopify://blogs/recipe/easy-adobo-chicken-sheet-pan-vegetables",
             "text_alignment": "top center"
           }
         },
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mango_pineapple_margarita.jpg",
+            "image": "shopify://shop_images/Mango_pineapple_margarita.jpg",
             "video": "",
             "image_position": "bottom right",
             "enlarge_image": true,
             "subheading": "Smoked Sea Salt Mango Pineapple Margarita",
             "title": "",
             "button_label": "",
-            "link": "shopify:\/\/blogs\/recipe\/smoked-sea-salt-mango-pineapple-margarita",
+            "link": "shopify://blogs/recipe/smoked-sea-salt-mango-pineapple-margarita",
             "text_alignment": "bottom center"
           }
         },
         "template--16057255526573__de0a8668-c6f1-476b-a453-6276da816b0b-1679151318197ae54f-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.jpg",
+            "image": "shopify://shop_images/3.jpg",
             "video": "",
             "image_position": "center center",
             "enlarge_image": true,
             "subheading": "Jerk Chicken Sheet Pan Fajita",
             "title": "",
             "button_label": "",
-            "link": "shopify:\/\/blogs\/recipe\/testing-receipe-2",
+            "link": "shopify://blogs/recipe/testing-receipe-2",
             "text_alignment": "top center"
           }
         }
@@ -568,13 +562,13 @@
       "settings": {
         "subheading": "Can't wait? Shop In store",
         "title": "Prince Abou's Butchery",
-        "text": "<p>32-88 Steinway Street - Astoria, NY 11103<\/p><p>Phone: 347-813-4335<\/p>",
+        "text": "<p>32-88 Steinway Street - Astoria, NY 11103</p><p>Phone: 347-813-4335</p>",
         "button_label": "VISIT US",
-        "button_link": "https:\/\/www.princeabousbutchery.com\/",
+        "button_link": "https://www.princeabousbutchery.com/",
         "button_style": "secondary",
         "text_alignment": "center",
         "text_width": 50,
-        "image": "shopify:\/\/shop_images\/shelf-wall.png",
+        "image": "shopify://shop_images/shelf-wall.png",
         "video": "",
         "image_width": 100,
         "image_position": "left",
