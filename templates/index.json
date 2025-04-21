@@ -12,14 +12,14 @@
     "feebce35-2433-4981-8a19-c0aa5ce10671": {
       "type": "background-video",
       "custom_css": [
-        ".line-1 {color: #ffffff; font-size: 30px;}",
-        ".image-overlay {position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-align:justify; display: flex; align-items: center; justify-content: center; background: #0000001a;}"
+        ".line-1 {color: #ffffff; font-size: 40px;}",
+        ".image-overlay {position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-align: center; display: flex; align-items: center; justify-content: center; background: #0000001a;}"
       ],
       "settings": {
         "video": "https://youtu.be/Rg1xEU83tac",
         "placeholder_image": "shopify://shop_images/Spice_Theory_Spices_On_Kitchen_Counter.png",
         "subheading": "",
-        "title": "<strong> We're keeping the celebration going with 15% OFF all gourmet seasonings—now through Friday, April 18! Just hop on over to checkout and use code EASTER2025. </strong>",
+        "title": "<strong> Authentic Caribbean Flavors Without The Additives\n</strong>",
         "title_size": 28,
         "heading_h1": true,
         "text": "",
