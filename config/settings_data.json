@@ -214,7 +214,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement_show": true,
+          "announcement_show": false,
           "announcement_home_only": false,
           "announcement_text": "Enjoy an extended 15% OFF our gourmet seasonings—now through Friday, April 18. Use code EASTER2025 at checkout and savor the flavor while it lasts!",
           "announcement_link": "https://www.amazon.com/s?me=A2G1L2MRT9QXYZ&marketplaceID=ATVPDKIKX0DER",
